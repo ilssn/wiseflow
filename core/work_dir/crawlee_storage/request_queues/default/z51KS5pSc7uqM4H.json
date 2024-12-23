@@ -1,0 +1,19 @@
+{
+  "url": "https://ambcrypto.com/category/new-news/",
+  "unique_key": "https://ambcrypto.com/category/new-news",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "z51KS5pSc7uqM4H",
+  "json_": "{\n  \"url\": \"https://ambcrypto.com/category/new-news/\",\n  \"unique_key\": \"https://ambcrypto.com/category/new-news\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"z51KS5pSc7uqM4H\",\n  \"order_no\": \"1734927543242.094994\"\n}",
+  "order_no": "1734927543242.094994"
+}

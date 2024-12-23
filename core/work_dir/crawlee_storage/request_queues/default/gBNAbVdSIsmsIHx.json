@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/20461782/Trump-taps-pro-bitcoin-Stephen-Miran-for-key-economic-role",
+  "unique_key": "https://cryptopanic.com/news/20461782/trump-taps-pro-bitcoin-stephen-miran-for-key-economic-role",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/20461782/Trump-taps-pro-bitcoin-Stephen-Miran-for-key-economic-role",
+  "handled_at": "2024-12-23 03:50:51.964298+00:00",
+  "id": "gBNAbVdSIsmsIHx",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/20461782/Trump-taps-pro-bitcoin-Stephen-Miran-for-key-economic-role\",\n  \"unique_key\": \"https://cryptopanic.com/news/20461782/trump-taps-pro-bitcoin-stephen-miran-for-key-economic-role\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/20461782/Trump-taps-pro-bitcoin-Stephen-Miran-for-key-economic-role\",\n  \"handled_at\": \"2024-12-23 03:50:51.964298+00:00\",\n  \"id\": \"gBNAbVdSIsmsIHx\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

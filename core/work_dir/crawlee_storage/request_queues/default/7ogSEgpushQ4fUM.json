@@ -1,0 +1,20 @@
+{
+  "url": "https://twitter.com/dogecoin",
+  "unique_key": "https://twitter.com/dogecoin",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://x.com/dogecoin?mx=2",
+  "handled_at": "2024-12-23 03:59:49.362835+00:00",
+  "id": "7ogSEgpushQ4fUM",
+  "json_": "{\n  \"url\": \"https://twitter.com/dogecoin\",\n  \"unique_key\": \"https://twitter.com/dogecoin\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://x.com/dogecoin?mx=2\",\n  \"handled_at\": \"2024-12-23 03:59:49.362835+00:00\",\n  \"id\": \"7ogSEgpushQ4fUM\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

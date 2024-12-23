@@ -1,0 +1,20 @@
+{
+  "url": "https://www.coingecko.com/en/api",
+  "unique_key": "https://www.coingecko.com/en/api",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.coingecko.com/en/api",
+  "handled_at": "2024-12-23 04:21:30.433574+00:00",
+  "id": "gBGzRTCzd3wZBQ3",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/api\",\n  \"unique_key\": \"https://www.coingecko.com/en/api\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.coingecko.com/en/api\",\n  \"handled_at\": \"2024-12-23 04:21:30.433574+00:00\",\n  \"id\": \"gBGzRTCzd3wZBQ3\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

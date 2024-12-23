@@ -1,0 +1,19 @@
+{
+  "url": "https://www.circle.com/multi-chain-usdc",
+  "unique_key": "https://www.circle.com/multi-chain-usdc",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "9mDBgymiEHtpeDU",
+  "json_": "{\n  \"url\": \"https://www.circle.com/multi-chain-usdc\",\n  \"unique_key\": \"https://www.circle.com/multi-chain-usdc\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"9mDBgymiEHtpeDU\",\n  \"order_no\": \"1734926807760.590076\"\n}",
+  "order_no": "1734926807760.590076"
+}

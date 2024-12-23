@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/arbitrum/20441972/Venus-Protocol-Launches-on-Base-Chain-Transforming-DeFi-Landscape-on-Base",
+  "unique_key": "https://cryptopanic.com/news/arbitrum/20441972/venus-protocol-launches-on-base-chain-transforming-defi-landscape-on-base",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "mTMf2aoVxkCeyJJ",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/arbitrum/20441972/Venus-Protocol-Launches-on-Base-Chain-Transforming-DeFi-Landscape-on-Base\",\n  \"unique_key\": \"https://cryptopanic.com/news/arbitrum/20441972/venus-protocol-launches-on-base-chain-transforming-defi-landscape-on-base\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"mTMf2aoVxkCeyJJ\",\n  \"order_no\": \"1734926561500.420094\"\n}",
+  "order_no": "1734926561500.420094"
+}

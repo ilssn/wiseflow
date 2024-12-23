@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/usd-coin/20435335/XLMUSDC-Trading-Now-on-Binance",
+  "unique_key": "https://cryptopanic.com/news/usd-coin/20435335/xlmusdc-trading-now-on-binance",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/usd-coin/20435335/XLMUSDC-Trading-Now-on-Binance",
+  "handled_at": "2024-12-23 04:06:23.324219+00:00",
+  "id": "woKvqv88VPKqeC3",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/usd-coin/20435335/XLMUSDC-Trading-Now-on-Binance\",\n  \"unique_key\": \"https://cryptopanic.com/news/usd-coin/20435335/xlmusdc-trading-now-on-binance\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/usd-coin/20435335/XLMUSDC-Trading-Now-on-Binance\",\n  \"handled_at\": \"2024-12-23 04:06:23.324219+00:00\",\n  \"id\": \"woKvqv88VPKqeC3\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

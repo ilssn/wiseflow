@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coingecko.com/en/coins/frax/gbp",
+  "unique_key": "https://www.coingecko.com/en/coins/frax/gbp",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "WcyZhB9ZdOdso9x",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/frax/gbp\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/frax/gbp\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"WcyZhB9ZdOdso9x\",\n  \"order_no\": \"1734926651935.482979\"\n}",
+  "order_no": "1734926651935.482979"
+}

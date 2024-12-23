@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coingecko.com/research/publications/animal-meme-coin-1-billion",
+  "unique_key": "https://www.coingecko.com/research/publications/animal-meme-coin-1-billion",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "YQuK4g6Th52LNR7",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/research/publications/animal-meme-coin-1-billion\",\n  \"unique_key\": \"https://www.coingecko.com/research/publications/animal-meme-coin-1-billion\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"YQuK4g6Th52LNR7\",\n  \"order_no\": \"1734926017028.770924\"\n}",
+  "order_no": "1734926017028.770924"
+}

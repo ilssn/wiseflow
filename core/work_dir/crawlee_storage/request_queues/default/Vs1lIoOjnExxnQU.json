@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/20462225/Cryptocurrency-Market-Today-Dec-23-BTC-At-94K-MOVE-Down-20-HYPE-Falls-19",
+  "unique_key": "https://cryptopanic.com/news/20462225/cryptocurrency-market-today-dec-23-btc-at-94k-move-down-20-hype-falls-19",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "Vs1lIoOjnExxnQU",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/20462225/Cryptocurrency-Market-Today-Dec-23-BTC-At-94K-MOVE-Down-20-HYPE-Falls-19\",\n  \"unique_key\": \"https://cryptopanic.com/news/20462225/cryptocurrency-market-today-dec-23-btc-at-94k-move-down-20-hype-falls-19\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"Vs1lIoOjnExxnQU\",\n  \"order_no\": \"1734927626941.391945\"\n}",
+  "order_no": "1734927626941.391945"
+}

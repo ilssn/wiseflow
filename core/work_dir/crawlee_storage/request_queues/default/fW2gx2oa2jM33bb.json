@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/polls/20332198/Will-Bitcoin-hit-100000",
+  "unique_key": "https://cryptopanic.com/polls/20332198/will-bitcoin-hit-100000",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/polls/20332198/Will-Bitcoin-hit-100000",
+  "handled_at": "2024-12-23 04:05:12.978130+00:00",
+  "id": "fW2gx2oa2jM33bb",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/polls/20332198/Will-Bitcoin-hit-100000\",\n  \"unique_key\": \"https://cryptopanic.com/polls/20332198/will-bitcoin-hit-100000\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/polls/20332198/Will-Bitcoin-hit-100000\",\n  \"handled_at\": \"2024-12-23 04:05:12.978130+00:00\",\n  \"id\": \"fW2gx2oa2jM33bb\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

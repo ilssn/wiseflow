@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/ripple/20462036/Ripple-Moves-Big-Money-RLUSD-Sees-Distribution-XRP-Holds-Key-2-Support",
+  "unique_key": "https://cryptopanic.com/news/ripple/20462036/ripple-moves-big-money-rlusd-sees-distribution-xrp-holds-key-2-support",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/ripple/20462036/Ripple-Moves-Big-Money-RLUSD-Sees-Distribution-XRP-Holds-Key-2-Support",
+  "handled_at": "2024-12-23 03:57:08.513674+00:00",
+  "id": "W5KwnIe2LIRq6zP",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/ripple/20462036/Ripple-Moves-Big-Money-RLUSD-Sees-Distribution-XRP-Holds-Key-2-Support\",\n  \"unique_key\": \"https://cryptopanic.com/news/ripple/20462036/ripple-moves-big-money-rlusd-sees-distribution-xrp-holds-key-2-support\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/ripple/20462036/Ripple-Moves-Big-Money-RLUSD-Sees-Distribution-XRP-Holds-Key-2-Support\",\n  \"handled_at\": \"2024-12-23 03:57:08.513674+00:00\",\n  \"id\": \"W5KwnIe2LIRq6zP\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

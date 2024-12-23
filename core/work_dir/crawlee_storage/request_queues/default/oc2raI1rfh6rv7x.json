@@ -1,0 +1,20 @@
+{
+  "url": "https://www.coingecko.com/en/coins/injective-protocol",
+  "unique_key": "https://www.coingecko.com/en/coins/injective-protocol",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.coingecko.com/en/coins/injective",
+  "handled_at": "2024-12-23 04:01:56.041389+00:00",
+  "id": "oc2raI1rfh6rv7x",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/injective-protocol\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/injective-protocol\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.coingecko.com/en/coins/injective\",\n  \"handled_at\": \"2024-12-23 04:01:56.041389+00:00\",\n  \"id\": \"oc2raI1rfh6rv7x\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

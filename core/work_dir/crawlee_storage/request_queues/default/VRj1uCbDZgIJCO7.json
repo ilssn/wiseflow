@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/usd-coin/",
+  "unique_key": "https://cryptopanic.com/news/usd-coin",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/usd-coin/",
+  "handled_at": "2024-12-23 03:49:30.661311+00:00",
+  "id": "VRj1uCbDZgIJCO7",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/usd-coin/\",\n  \"unique_key\": \"https://cryptopanic.com/news/usd-coin\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/usd-coin/\",\n  \"handled_at\": \"2024-12-23 03:49:30.661311+00:00\",\n  \"id\": \"VRj1uCbDZgIJCO7\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

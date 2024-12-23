@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/dogecoin/20461221/Dogecoin-Down-23-This-Week-as-Bitcoin-and-XRP-Stumble-After-Surges",
+  "unique_key": "https://cryptopanic.com/news/dogecoin/20461221/dogecoin-down-23-this-week-as-bitcoin-and-xrp-stumble-after-surges",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/dogecoin/20461221/Dogecoin-Down-23-This-Week-as-Bitcoin-and-XRP-Stumble-After-Surges",
+  "handled_at": "2024-12-23 03:59:44.284297+00:00",
+  "id": "DZQbceyXppYiq5b",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/dogecoin/20461221/Dogecoin-Down-23-This-Week-as-Bitcoin-and-XRP-Stumble-After-Surges\",\n  \"unique_key\": \"https://cryptopanic.com/news/dogecoin/20461221/dogecoin-down-23-this-week-as-bitcoin-and-xrp-stumble-after-surges\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/dogecoin/20461221/Dogecoin-Down-23-This-Week-as-Bitcoin-and-XRP-Stumble-After-Surges\",\n  \"handled_at\": \"2024-12-23 03:59:44.284297+00:00\",\n  \"id\": \"DZQbceyXppYiq5b\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

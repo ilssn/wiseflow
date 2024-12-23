@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/layerzero/",
+  "unique_key": "https://cryptopanic.com/news/layerzero",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "LdNHRNdlQizLA3O",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/layerzero/\",\n  \"unique_key\": \"https://cryptopanic.com/news/layerzero\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"LdNHRNdlQizLA3O\",\n  \"order_no\": \"1734926561495.134115\"\n}",
+  "order_no": "1734926561495.134115"
+}

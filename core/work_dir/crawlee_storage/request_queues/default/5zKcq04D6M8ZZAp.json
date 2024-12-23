@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/shiba-inu/20461252/Not-Shiba-Inu-SHIB-Not-Pepe-Coin-PEPE-This-Is-the-Best-Crypto-to-Turn-650-into-650000-in-the-Next-Bull-Run",
+  "unique_key": "https://cryptopanic.com/news/shiba-inu/20461252/not-shiba-inu-shib-not-pepe-coin-pepe-this-is-the-best-crypto-to-turn-650-into-650000-in-the-next-bull-run",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/shiba-inu/20461252/Not-Shiba-Inu-SHIB-Not-Pepe-Coin-PEPE-This-Is-the-Best-Crypto-to-Turn-650-into-650000-in-the-Next-Bull-Run",
+  "handled_at": "2024-12-23 03:51:38.629927+00:00",
+  "id": "5zKcq04D6M8ZZAp",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/shiba-inu/20461252/Not-Shiba-Inu-SHIB-Not-Pepe-Coin-PEPE-This-Is-the-Best-Crypto-to-Turn-650-into-650000-in-the-Next-Bull-Run\",\n  \"unique_key\": \"https://cryptopanic.com/news/shiba-inu/20461252/not-shiba-inu-shib-not-pepe-coin-pepe-this-is-the-best-crypto-to-turn-650-into-650000-in-the-next-bull-run\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/shiba-inu/20461252/Not-Shiba-Inu-SHIB-Not-Pepe-Coin-PEPE-This-Is-the-Best-Crypto-to-Turn-650-into-650000-in-the-Next-Bull-Run\",\n  \"handled_at\": \"2024-12-23 03:51:38.629927+00:00\",\n  \"id\": \"5zKcq04D6M8ZZAp\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

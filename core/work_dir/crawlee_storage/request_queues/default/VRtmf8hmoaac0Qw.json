@@ -1,0 +1,19 @@
+{
+  "url": "https://u.today/182-million-xrp-in-24-hours-heres-what-happened",
+  "unique_key": "https://u.today/182-million-xrp-in-24-hours-heres-what-happened",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "VRtmf8hmoaac0Qw",
+  "json_": "{\n  \"url\": \"https://u.today/182-million-xrp-in-24-hours-heres-what-happened\",\n  \"unique_key\": \"https://u.today/182-million-xrp-in-24-hours-heres-what-happened\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"VRtmf8hmoaac0Qw\",\n  \"order_no\": \"1734926906049.891949\"\n}",
+  "order_no": "1734926906049.891949"
+}

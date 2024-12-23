@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/bitcoin/20461685/SENATOR-TED-CRUZ-We-are-going-to-unleash-crypto-I-am-proud-to-stand-with-Bitcoin-I-am-the-only-member-of-the-US-Senate-who-is-a-Bitcoin-miner-and-I-am-proud-to-say-that-Texas-is-an-oasis-for-Bitcoin",
+  "unique_key": "https://cryptopanic.com/news/bitcoin/20461685/senator-ted-cruz-we-are-going-to-unleash-crypto-i-am-proud-to-stand-with-bitcoin-i-am-the-only-member-of-the-us-senate-who-is-a-bitcoin-miner-and-i-am-proud-to-say-that-texas-is-an-oasis-for-bitcoin",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/bitcoin/20461685/SENATOR-TED-CRUZ-We-are-going-to-unleash-crypto-I-am-proud-to-stand-with-Bitcoin-I-am-the-only-member-of-the-US-Senate-who-is-a-Bitcoin-miner-and-I-am-proud-to-say-that-Texas-is-an-oasis-for-Bitcoin",
+  "handled_at": "2024-12-23 04:13:20.506530+00:00",
+  "id": "S8tYecABREYkTxc",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/bitcoin/20461685/SENATOR-TED-CRUZ-We-are-going-to-unleash-crypto-I-am-proud-to-stand-with-Bitcoin-I-am-the-only-member-of-the-US-Senate-who-is-a-Bitcoin-miner-and-I-am-proud-to-say-that-Texas-is-an-oasis-for-Bitcoin\",\n  \"unique_key\": \"https://cryptopanic.com/news/bitcoin/20461685/senator-ted-cruz-we-are-going-to-unleash-crypto-i-am-proud-to-stand-with-bitcoin-i-am-the-only-member-of-the-us-senate-who-is-a-bitcoin-miner-and-i-am-proud-to-say-that-texas-is-an-oasis-for-bitcoin\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/bitcoin/20461685/SENATOR-TED-CRUZ-We-are-going-to-unleash-crypto-I-am-proud-to-stand-with-Bitcoin-I-am-the-only-member-of-the-US-Senate-who-is-a-Bitcoin-miner-and-I-am-proud-to-say-that-Texas-is-an-oasis-for-Bitcoin\",\n  \"handled_at\": \"2024-12-23 04:13:20.506530+00:00\",\n  \"id\": \"S8tYecABREYkTxc\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

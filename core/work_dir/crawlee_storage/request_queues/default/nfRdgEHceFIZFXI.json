@@ -1,0 +1,19 @@
+{
+  "url": "https://coinpedia.org/news/xrp-price-prediction-for-december-20/",
+  "unique_key": "https://coinpedia.org/news/xrp-price-prediction-for-december-20",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "nfRdgEHceFIZFXI",
+  "json_": "{\n  \"url\": \"https://coinpedia.org/news/xrp-price-prediction-for-december-20/\",\n  \"unique_key\": \"https://coinpedia.org/news/xrp-price-prediction-for-december-20\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"nfRdgEHceFIZFXI\",\n  \"order_no\": \"1734926311130.659103\"\n}",
+  "order_no": "1734926311130.659103"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.coingecko.com/en/coins/xfund",
+  "unique_key": "https://www.coingecko.com/en/coins/xfund",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 5,
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.coingecko.com/en/coins/xfund",
+  "handled_at": null,
+  "id": "Xri3k13Wwge4jTk",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/xfund\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/xfund\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 5,\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 1,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.coingecko.com/en/coins/xfund\",\n  \"handled_at\": null,\n  \"id\": \"Xri3k13Wwge4jTk\",\n  \"order_no\": \"1734927690412.827969\"\n}",
+  "order_no": "1734927690412.827969"
+}

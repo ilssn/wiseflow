@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/source/en.cryptonomist.ch",
+  "unique_key": "https://cryptopanic.com/news/source/en.cryptonomist.ch",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/source/en.cryptonomist.ch",
+  "handled_at": "2024-12-23 04:19:33.501955+00:00",
+  "id": "VNgh8qyuRr2eeAt",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/source/en.cryptonomist.ch\",\n  \"unique_key\": \"https://cryptopanic.com/news/source/en.cryptonomist.ch\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/source/en.cryptonomist.ch\",\n  \"handled_at\": \"2024-12-23 04:19:33.501955+00:00\",\n  \"id\": \"VNgh8qyuRr2eeAt\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

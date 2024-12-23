@@ -1,0 +1,19 @@
+{
+  "url": "https://coingape.com/category/reviews/exchange-reviews/",
+  "unique_key": "https://coingape.com/category/reviews/exchange-reviews",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "vu4EWdEj4df0biu",
+  "json_": "{\n  \"url\": \"https://coingape.com/category/reviews/exchange-reviews/\",\n  \"unique_key\": \"https://coingape.com/category/reviews/exchange-reviews\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"vu4EWdEj4df0biu\",\n  \"order_no\": \"1734927609442.043066\"\n}",
+  "order_no": "1734927609442.043066"
+}

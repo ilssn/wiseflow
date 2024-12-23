@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/bitcoin/20462252/Michael-Saylor-Proposes-US-Digital-Assets-Framework-Backs-Bitcoin-Reserve-Capable-Of-Generating-1681-Trillion-In-Wealth",
+  "unique_key": "https://cryptopanic.com/news/bitcoin/20462252/michael-saylor-proposes-us-digital-assets-framework-backs-bitcoin-reserve-capable-of-generating-1681-trillion-in-wealth",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "NR8W7rdQm94udO3",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/bitcoin/20462252/Michael-Saylor-Proposes-US-Digital-Assets-Framework-Backs-Bitcoin-Reserve-Capable-Of-Generating-1681-Trillion-In-Wealth\",\n  \"unique_key\": \"https://cryptopanic.com/news/bitcoin/20462252/michael-saylor-proposes-us-digital-assets-framework-backs-bitcoin-reserve-capable-of-generating-1681-trillion-in-wealth\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"NR8W7rdQm94udO3\",\n  \"order_no\": \"1734927077590.981960\"\n}",
+  "order_no": "1734927077590.981960"
+}

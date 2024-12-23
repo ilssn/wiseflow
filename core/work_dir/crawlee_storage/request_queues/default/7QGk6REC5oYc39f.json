@@ -1,0 +1,20 @@
+{
+  "url": "https://www.coingecko.com/en/coins/frax",
+  "unique_key": "https://www.coingecko.com/en/coins/frax",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.coingecko.com/en/coins/frax",
+  "handled_at": "2024-12-23 04:04:11.968962+00:00",
+  "id": "7QGk6REC5oYc39f",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/frax\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/frax\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.coingecko.com/en/coins/frax\",\n  \"handled_at\": \"2024-12-23 04:04:11.968962+00:00\",\n  \"id\": \"7QGk6REC5oYc39f\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

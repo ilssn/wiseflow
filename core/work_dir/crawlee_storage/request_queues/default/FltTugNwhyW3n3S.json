@@ -1,0 +1,20 @@
+{
+  "url": "https://coingape.com/crypto-prices-today-december-22-btc-below-97k-sol-drops-7-wif-falls-13/",
+  "unique_key": "https://coingape.com/crypto-prices-today-december-22-btc-below-97k-sol-drops-7-wif-falls-13",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://coingape.com/crypto-prices-today-december-22-btc-below-97k-sol-drops-7-wif-falls-13/",
+  "handled_at": "2024-12-23 04:20:45.658178+00:00",
+  "id": "FltTugNwhyW3n3S",
+  "json_": "{\n  \"url\": \"https://coingape.com/crypto-prices-today-december-22-btc-below-97k-sol-drops-7-wif-falls-13/\",\n  \"unique_key\": \"https://coingape.com/crypto-prices-today-december-22-btc-below-97k-sol-drops-7-wif-falls-13\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://coingape.com/crypto-prices-today-december-22-btc-below-97k-sol-drops-7-wif-falls-13/\",\n  \"handled_at\": \"2024-12-23 04:20:45.658178+00:00\",\n  \"id\": \"FltTugNwhyW3n3S\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

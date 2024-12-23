@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coingecko.com/en/coins/terminus-2",
+  "unique_key": "https://www.coingecko.com/en/coins/terminus-2",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "WKtxvc5as01D1HU",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/terminus-2\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/terminus-2\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"WKtxvc5as01D1HU\",\n  \"order_no\": \"1734926343536.359072\"\n}",
+  "order_no": "1734926343536.359072"
+}

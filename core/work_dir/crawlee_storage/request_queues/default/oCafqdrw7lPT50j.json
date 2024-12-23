@@ -1,0 +1,19 @@
+{
+  "url": "https://ambcrypto.com/solana-shows-signs-of-heating-up-as-tvl-soars-to-new-2024-highs/",
+  "unique_key": "https://ambcrypto.com/solana-shows-signs-of-heating-up-as-tvl-soars-to-new-2024-highs",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "oCafqdrw7lPT50j",
+  "json_": "{\n  \"url\": \"https://ambcrypto.com/solana-shows-signs-of-heating-up-as-tvl-soars-to-new-2024-highs/\",\n  \"unique_key\": \"https://ambcrypto.com/solana-shows-signs-of-heating-up-as-tvl-soars-to-new-2024-highs\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"oCafqdrw7lPT50j\",\n  \"order_no\": \"1734927033835.935116\"\n}",
+  "order_no": "1734927033835.935116"
+}

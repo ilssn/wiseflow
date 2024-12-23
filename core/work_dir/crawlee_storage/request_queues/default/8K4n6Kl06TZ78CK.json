@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/pip-3/",
+  "unique_key": "https://cryptopanic.com/news/pip-3",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "8K4n6Kl06TZ78CK",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/pip-3/\",\n  \"unique_key\": \"https://cryptopanic.com/news/pip-3\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"8K4n6Kl06TZ78CK\",\n  \"order_no\": \"1734926774352.399111\"\n}",
+  "order_no": "1734926774352.399111"
+}

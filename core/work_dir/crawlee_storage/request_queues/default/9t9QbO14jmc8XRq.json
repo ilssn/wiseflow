@@ -1,0 +1,19 @@
+{
+  "url": "https://u.today/trx-price-analysis-for-january-6",
+  "unique_key": "https://u.today/trx-price-analysis-for-january-6",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "9t9QbO14jmc8XRq",
+  "json_": "{\n  \"url\": \"https://u.today/trx-price-analysis-for-january-6\",\n  \"unique_key\": \"https://u.today/trx-price-analysis-for-january-6\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"9t9QbO14jmc8XRq\",\n  \"order_no\": \"1734926906005.167007\"\n}",
+  "order_no": "1734926906005.167007"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://bscscan.com/token/0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+  "unique_key": "https://bscscan.com/token/0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "6IISnbMykhRapEu",
+  "json_": "{\n  \"url\": \"https://bscscan.com/token/0xa2b726b1145a4773f68593cf171187d8ebe4d495\",\n  \"unique_key\": \"https://bscscan.com/token/0xa2b726b1145a4773f68593cf171187d8ebe4d495\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"6IISnbMykhRapEu\",\n  \"order_no\": \"1734926516008.493900\"\n}",
+  "order_no": "1734926516008.493900"
+}

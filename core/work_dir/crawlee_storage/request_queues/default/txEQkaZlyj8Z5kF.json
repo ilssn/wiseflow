@@ -1,0 +1,20 @@
+{
+  "url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-under-pressure-92k/",
+  "unique_key": "https://www.newsbtc.com/analysis/btc/bitcoin-price-under-pressure-92k",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.newsbtc.com/analysis/btc/bitcoin-price-under-pressure-92k/",
+  "handled_at": "2024-12-23 04:00:53.177167+00:00",
+  "id": "txEQkaZlyj8Z5kF",
+  "json_": "{\n  \"url\": \"https://www.newsbtc.com/analysis/btc/bitcoin-price-under-pressure-92k/\",\n  \"unique_key\": \"https://www.newsbtc.com/analysis/btc/bitcoin-price-under-pressure-92k\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.newsbtc.com/analysis/btc/bitcoin-price-under-pressure-92k/\",\n  \"handled_at\": \"2024-12-23 04:00:53.177167+00:00\",\n  \"id\": \"txEQkaZlyj8Z5kF\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

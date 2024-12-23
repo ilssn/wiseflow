@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/dogecoin/20460490/Dogecoin-Drops-30-from-Yearly-Highs-Risks-Falling-Below-020",
+  "unique_key": "https://cryptopanic.com/news/dogecoin/20460490/dogecoin-drops-30-from-yearly-highs-risks-falling-below-020",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/dogecoin/20460490/Dogecoin-Drops-30-from-Yearly-Highs-Risks-Falling-Below-020",
+  "handled_at": "2024-12-23 03:59:33.933679+00:00",
+  "id": "SLfe0OXAF27DsR9",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/dogecoin/20460490/Dogecoin-Drops-30-from-Yearly-Highs-Risks-Falling-Below-020\",\n  \"unique_key\": \"https://cryptopanic.com/news/dogecoin/20460490/dogecoin-drops-30-from-yearly-highs-risks-falling-below-020\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/dogecoin/20460490/Dogecoin-Drops-30-from-Yearly-Highs-Risks-Falling-Below-020\",\n  \"handled_at\": \"2024-12-23 03:59:33.933679+00:00\",\n  \"id\": \"SLfe0OXAF27DsR9\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

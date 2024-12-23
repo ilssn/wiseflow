@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/litecoin/20461101/Monsta-Mash-MASH-Targets-1000-Gains-as-Litecoin-LTC-and-Ripple-XRP-Prepare-for-Explosive-Breakouts",
+  "unique_key": "https://cryptopanic.com/news/litecoin/20461101/monsta-mash-mash-targets-1000-gains-as-litecoin-ltc-and-ripple-xrp-prepare-for-explosive-breakouts",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/litecoin/20461101/Monsta-Mash-MASH-Targets-1000-Gains-as-Litecoin-LTC-and-Ripple-XRP-Prepare-for-Explosive-Breakouts",
+  "handled_at": "2024-12-23 04:16:06.078357+00:00",
+  "id": "ONHfZPyBxcsdudy",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/litecoin/20461101/Monsta-Mash-MASH-Targets-1000-Gains-as-Litecoin-LTC-and-Ripple-XRP-Prepare-for-Explosive-Breakouts\",\n  \"unique_key\": \"https://cryptopanic.com/news/litecoin/20461101/monsta-mash-mash-targets-1000-gains-as-litecoin-ltc-and-ripple-xrp-prepare-for-explosive-breakouts\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/litecoin/20461101/Monsta-Mash-MASH-Targets-1000-Gains-as-Litecoin-LTC-and-Ripple-XRP-Prepare-for-Explosive-Breakouts\",\n  \"handled_at\": \"2024-12-23 04:16:06.078357+00:00\",\n  \"id\": \"ONHfZPyBxcsdudy\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

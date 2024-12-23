@@ -1,0 +1,19 @@
+{
+  "url": "http://api.mainnet-beta.solana.com/v0/circulating-supply",
+  "unique_key": "http://api.mainnet-beta.solana.com/v0/circulating-supply",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "tHCKZzAdEmjz3Km",
+  "json_": "{\n  \"url\": \"http://api.mainnet-beta.solana.com/v0/circulating-supply\",\n  \"unique_key\": \"http://api.mainnet-beta.solana.com/v0/circulating-supply\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"tHCKZzAdEmjz3Km\",\n  \"order_no\": \"1734927033896.353960\"\n}",
+  "order_no": "1734927033896.353960"
+}

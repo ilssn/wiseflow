@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/shiba-inu/20461056/Shiba-Inu-SHIB-Eyes-Epic-35-Trillion-SHIB-Bearish-Imbalance",
+  "unique_key": "https://cryptopanic.com/news/shiba-inu/20461056/shiba-inu-shib-eyes-epic-35-trillion-shib-bearish-imbalance",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/shiba-inu/20461056/Shiba-Inu-SHIB-Eyes-Epic-35-Trillion-SHIB-Bearish-Imbalance",
+  "handled_at": "2024-12-23 03:51:51.811461+00:00",
+  "id": "baGfJL46DYz7Tex",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/shiba-inu/20461056/Shiba-Inu-SHIB-Eyes-Epic-35-Trillion-SHIB-Bearish-Imbalance\",\n  \"unique_key\": \"https://cryptopanic.com/news/shiba-inu/20461056/shiba-inu-shib-eyes-epic-35-trillion-shib-bearish-imbalance\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/shiba-inu/20461056/Shiba-Inu-SHIB-Eyes-Epic-35-Trillion-SHIB-Bearish-Imbalance\",\n  \"handled_at\": \"2024-12-23 03:51:51.811461+00:00\",\n  \"id\": \"baGfJL46DYz7Tex\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

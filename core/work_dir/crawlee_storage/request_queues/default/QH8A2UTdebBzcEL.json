@@ -1,0 +1,20 @@
+{
+  "url": "https://www.circle.com/en/usdc",
+  "unique_key": "https://www.circle.com/en/usdc",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.circle.com/usdc",
+  "handled_at": "2024-12-23 04:06:47.770293+00:00",
+  "id": "QH8A2UTdebBzcEL",
+  "json_": "{\n  \"url\": \"https://www.circle.com/en/usdc\",\n  \"unique_key\": \"https://www.circle.com/en/usdc\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.circle.com/usdc\",\n  \"handled_at\": \"2024-12-23 04:06:47.770293+00:00\",\n  \"id\": \"QH8A2UTdebBzcEL\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

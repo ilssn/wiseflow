@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/fantom/20460463/Fantom-breaks-1-Will-FTM-continue-its-bullish-trend-towards-150",
+  "unique_key": "https://cryptopanic.com/news/fantom/20460463/fantom-breaks-1-will-ftm-continue-its-bullish-trend-towards-150",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "ycpUBaFFjxOTOWX",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/fantom/20460463/Fantom-breaks-1-Will-FTM-continue-its-bullish-trend-towards-150\",\n  \"unique_key\": \"https://cryptopanic.com/news/fantom/20460463/fantom-breaks-1-will-ftm-continue-its-bullish-trend-towards-150\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"ycpUBaFFjxOTOWX\",\n  \"order_no\": \"1734926532970.241070\"\n}",
+  "order_no": "1734926532970.241070"
+}

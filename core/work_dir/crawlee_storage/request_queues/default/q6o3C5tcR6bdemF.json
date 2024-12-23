@@ -1,0 +1,19 @@
+{
+  "url": "https://coingape.com/visit/ext/ghostswap/",
+  "unique_key": "https://coingape.com/visit/ext/ghostswap",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "q6o3C5tcR6bdemF",
+  "json_": "{\n  \"url\": \"https://coingape.com/visit/ext/ghostswap/\",\n  \"unique_key\": \"https://coingape.com/visit/ext/ghostswap\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"q6o3C5tcR6bdemF\",\n  \"order_no\": \"1734927609437.660933\"\n}",
+  "order_no": "1734927609437.660933"
+}

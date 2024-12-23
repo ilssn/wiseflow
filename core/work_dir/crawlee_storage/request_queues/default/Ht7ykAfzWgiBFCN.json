@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/shiba-inu/20353395/Participate-in-cloud-mining-for-free-at-BitconeMine-and-earn-a-stable-passive-income-of-more-than-1000-per-day",
+  "unique_key": "https://cryptopanic.com/news/shiba-inu/20353395/participate-in-cloud-mining-for-free-at-bitconemine-and-earn-a-stable-passive-income-of-more-than-1000-per-day",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/shiba-inu/20353395/Participate-in-cloud-mining-for-free-at-BitconeMine-and-earn-a-stable-passive-income-of-more-than-1000-per-day",
+  "handled_at": "2024-12-23 04:19:11.624545+00:00",
+  "id": "Ht7ykAfzWgiBFCN",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/shiba-inu/20353395/Participate-in-cloud-mining-for-free-at-BitconeMine-and-earn-a-stable-passive-income-of-more-than-1000-per-day\",\n  \"unique_key\": \"https://cryptopanic.com/news/shiba-inu/20353395/participate-in-cloud-mining-for-free-at-bitconemine-and-earn-a-stable-passive-income-of-more-than-1000-per-day\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/shiba-inu/20353395/Participate-in-cloud-mining-for-free-at-BitconeMine-and-earn-a-stable-passive-income-of-more-than-1000-per-day\",\n  \"handled_at\": \"2024-12-23 04:19:11.624545+00:00\",\n  \"id\": \"Ht7ykAfzWgiBFCN\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

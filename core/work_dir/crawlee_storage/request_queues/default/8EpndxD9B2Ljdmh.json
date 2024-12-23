@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/injective-protocol/20388493/Comprehensive-Sportsbook-Casino-Welcome-Bonus-7-BTC-250-Free-Spins-Play-without-KYC",
+  "unique_key": "https://cryptopanic.com/news/injective-protocol/20388493/comprehensive-sportsbook-casino-welcome-bonus-7-btc-250-free-spins-play-without-kyc",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "8EpndxD9B2Ljdmh",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/injective-protocol/20388493/Comprehensive-Sportsbook-Casino-Welcome-Bonus-7-BTC-250-Free-Spins-Play-without-KYC\",\n  \"unique_key\": \"https://cryptopanic.com/news/injective-protocol/20388493/comprehensive-sportsbook-casino-welcome-bonus-7-btc-250-free-spins-play-without-kyc\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"8EpndxD9B2Ljdmh\",\n  \"order_no\": \"1734926485450.092077\"\n}",
+  "order_no": "1734926485450.092077"
+}

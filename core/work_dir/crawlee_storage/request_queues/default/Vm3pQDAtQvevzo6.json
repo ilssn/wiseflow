@@ -1,0 +1,20 @@
+{
+  "url": "https://www.coingecko.com/en/coins/usd-coin",
+  "unique_key": "https://www.coingecko.com/en/coins/usd-coin",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.coingecko.com/en/coins/usdc",
+  "handled_at": "2024-12-23 04:07:35.732848+00:00",
+  "id": "Vm3pQDAtQvevzo6",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/usd-coin\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/usd-coin\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.coingecko.com/en/coins/usdc\",\n  \"handled_at\": \"2024-12-23 04:07:35.732848+00:00\",\n  \"id\": \"Vm3pQDAtQvevzo6\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

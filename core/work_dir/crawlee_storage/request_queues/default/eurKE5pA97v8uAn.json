@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/polls/20430870/Will-XRP-hit-10-early-2025",
+  "unique_key": "https://cryptopanic.com/polls/20430870/will-xrp-hit-10-early-2025",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/polls/20430870/Will-XRP-hit-10-early-2025",
+  "handled_at": "2024-12-23 04:05:04.548412+00:00",
+  "id": "eurKE5pA97v8uAn",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/polls/20430870/Will-XRP-hit-10-early-2025\",\n  \"unique_key\": \"https://cryptopanic.com/polls/20430870/will-xrp-hit-10-early-2025\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/polls/20430870/Will-XRP-hit-10-early-2025\",\n  \"handled_at\": \"2024-12-23 04:05:04.548412+00:00\",\n  \"id\": \"eurKE5pA97v8uAn\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

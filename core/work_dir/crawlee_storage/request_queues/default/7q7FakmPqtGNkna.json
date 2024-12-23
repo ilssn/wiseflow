@@ -1,0 +1,19 @@
+{
+  "url": "https://app.uniswap.org/explore/tokens/ethereum/0x853d955acef822db058eb8505911ed77f175b99e",
+  "unique_key": "https://app.uniswap.org/explore/tokens/ethereum/0x853d955acef822db058eb8505911ed77f175b99e",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "7q7FakmPqtGNkna",
+  "json_": "{\n  \"url\": \"https://app.uniswap.org/explore/tokens/ethereum/0x853d955acef822db058eb8505911ed77f175b99e\",\n  \"unique_key\": \"https://app.uniswap.org/explore/tokens/ethereum/0x853d955acef822db058eb8505911ed77f175b99e\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"7q7FakmPqtGNkna\",\n  \"order_no\": \"1734926651918.888092\"\n}",
+  "order_no": "1734926651918.888092"
+}

@@ -1,0 +1,584 @@
+2024-12-23 03:26:17.065 | INFO     | utils.pb_api:__init__:22 - pocketbase ready authenticated as admin - ilssn@icloud.com
+2024-12-23 03:26:17.086 | INFO     | __main__:schedule_pipeline:10 - task execute loop 1
+2024-12-23 03:26:17.088 | INFO     | __main__:schedule_pipeline:17 - applying https://cryptopanic.com/news/
+2024-12-23 03:26:55.039 | INFO     | __main__:schedule_pipeline:22 - task execute loop finished, work after 3600 seconds
+2024-12-23 03:46:10.217 | INFO     | utils.pb_api:__init__:22 - pocketbase ready authenticated as admin - ilssn@icloud.com
+2024-12-23 03:46:10.255 | INFO     | __main__:schedule_pipeline:10 - task execute loop 1
+2024-12-23 03:46:10.266 | INFO     | __main__:schedule_pipeline:17 - applying https://cryptopanic.com/news/
+2024-12-23 03:46:32.141 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/newsfilter=rising', 'https://cryptopanic.com/news/xrp/', 'https://cryptopanic.com/news/tusd/'} not in link_dict, it's model's Hallucination
+2024-12-23 03:46:36.734 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:46:36.736 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:46:54.248 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/shiba-inu/filter=hot', 'https://cryptopanic.com/news/shiba-inu/filter=rising'} not in link_dict, it's model's Hallucination
+2024-12-23 03:46:57.852 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:46:57.869 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:47:11.559 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/market-cap/filter=rising', 'https://cryptopanic.com/news/market-cap/filter=hot'} not in link_dict, it's model's Hallucination
+2024-12-23 03:47:13.808 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:13.809 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:47:15.817 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:15.818 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:47:32.600 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/ripple/filter=important'} not in link_dict, it's model's Hallucination
+2024-12-23 03:47:40.320 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.321 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.322 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.327 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.331 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.343 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.347 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.360 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.369 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.380 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:40.384 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:47:44.942 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:44.944 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:44.946 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:44.946 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:44.947 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:44.947 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:44.948 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:47:47.637 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:47.638 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:47:48.766 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:47:48.767 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:48:05.611 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/dogecoin/filter=rising', 'https://cryptopanic.com/news/dogecoin/filter=hot'} not in link_dict, it's model's Hallucination
+2024-12-23 03:48:07.807 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:48:07.809 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:48:07.810 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:48:11.382 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:48:11.475 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:48:24.253 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:48:24.254 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:48:25.397 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:48:25.398 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:48:40.320 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/injective-protocol/filter=hot', 'https://cryptopanic.com/news/injective-protocol/filter=bullish', 'https://cryptopanic.com/news/injective-protocol/filter=rising', 'https://cryptopanic.com/news/injective-protocol/filter=important'} not in link_dict, it's model's Hallucination
+2024-12-23 03:48:43.216 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:48:43.216 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:48:55.721 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/frax/filter=lol', 'https://cryptopanic.com/news/frax/filter=important', 'https://cryptopanic.com/news/frax/filter=hot'} not in link_dict, it's model's Hallucination
+2024-12-23 03:49:10.953 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:10.955 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:49:12.254 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:12.256 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:49:13.498 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:13.499 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:49:26.167 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/usd-coin/filter=rising', 'https://cryptopanic.com/news/usd-coin/filter=hot', 'https://cryptopanic.com/news/usd-coin/filter=important'} not in link_dict, it's model's Hallucination
+2024-12-23 03:49:28.945 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:28.946 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:49:30.506 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:30.508 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:30.509 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:49:37.224 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://go.nordpass.io/aff_coffer_id=488&aff_id=112455&url_id=9356'} not in link_dict, it's model's Hallucination
+2024-12-23 03:49:40.191 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:40.193 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:49:41.581 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:41.584 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:49:55.350 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/solana/filter=important'} not in link_dict, it's model's Hallucination
+2024-12-23 03:49:57.508 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:57.509 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:49:58.843 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:49:58.846 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:50:00.191 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:50:00.194 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:50:16.625 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/bitcoin/filter=important'} not in link_dict, it's model's Hallucination
+2024-12-23 03:50:19.824 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:50:19.829 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:50:21.220 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:50:21.221 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:50:34.662 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/litecoin/filter=rising', 'https://cryptopanic.com/news/litecoin/filter=hot'} not in link_dict, it's model's Hallucination
+2024-12-23 03:50:38.670 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:50:38.671 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:50:39.932 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:50:39.932 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:50:50.786 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:50:50.788 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:50:51.902 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:50:51.902 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:01.400 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/price-analysisfilter=hot', 'https://cryptopanic.com/news/price-analysisfilter=rising', 'https://cryptopanic.com/news/price-analysisfilter=important'} not in link_dict, it's model's Hallucination
+2024-12-23 03:51:02.591 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:02.592 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:03.889 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:03.889 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:05.187 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:05.188 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:06.667 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:06.668 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:11.443 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:11.444 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:22.983 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:22.985 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:33.687 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/signup/next=%2Fnews%2Fshiba-inu%2F20461252%2FNot-Shiba-Inu-SHIB-Not-Pepe-Coin-PEPE-This-Is-the-Best-Crypto-to-Turn-650-into-650000-in-the-Next-Bull-Run?next=/news/shiba-inu/20461252/Not-Shiba-Inu-SHIB-Not-Pepe-Coin-PEPE-This-Is-the-Best-Crypto-to-Turn-650-into-650000-in-the-Next-Bull-Run'} not in link_dict, it's model's Hallucination
+2024-12-23 03:51:37.349 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:37.354 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:37.355 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:38.538 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:38.539 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:47.586 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/signup/next=%2Fnews%2Fshiba-inu%2F20461056%2FShiba-Inu-SHIB-Eyes-Epic-35-Trillion-SHIB-Bearish-Imbalance?next=/news/shiba-inu/20461056/Shiba-Inu-SHIB-Eyes-Epic-35-Trillion-SHIB-Bearish-Imbalance'} not in link_dict, it's model's Hallucination
+2024-12-23 03:51:50.557 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:50.582 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:51:51.739 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:51:51.740 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:52:02.276 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:52:02.278 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:52:03.418 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:52:03.419 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:52:11.776 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/shiba-inu/20460073/Crypto-Prices-Today-December-22-BTC-Below-97K-SOL-Drops-7-WIF-Falls-13'} not in link_dict, it's model's Hallucination
+2024-12-23 03:52:16.102 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:52:16.514 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:52:18.646 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:52:18.648 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:53:18.634 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.coingecko.com/en/search_redirectid=jirasan&type=nft&utm_source=trending_search&utm_medium=coingecko', 'https://www.coingecko.com/en/coins/xrp', 'https://www.coingecko.com/en/search_redirectid=sui&type=coin&source=trending', 'https://www.coingecko.com/en/search_redirectid=solana&type=coin&source=trending', 'https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4cea=0xf7A0383750feF5AbaCe57cc4C9ff98e3790202b3', 'https://www.coingecko.com/en/search_redirectid=hv-mtl&type=nft&utm_source=trending_search&utm_medium=coingecko', 'https://www.coingecko.com/en/search_redirectid=sam-spratt-luci-chapter-5-the-monument-game&type=nft&utm_source=trending_search&utm_medium=coingecko', 'https://www.coingecko.com/en/search_redirectid=decentraland&type=nft&utm_source=trending_search&utm_medium=coingecko', 'https://www.coingecko.com/en/search_redirectid=pudgy-penguins&type=coin&source=trending', 'https://www.coingecko.com/en/search_redirectid=bitcoin&type=coin&source=trending', 'https://www.coingecko.com/en/search_redirectid=508&type=category', 'https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4cea=0x11450058d796b02eb53e65374be59cff65d3fe7f', 'https://www.coingecko.com/en/search_redirectid=344&type=category', 'https://www.coingecko.com/en/search_redirectid=hyperliquid&type=coin&source=trending', 'https://www.coingecko.com/en/search_redirectid=330&type=category', 'https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4cea=0x27C70Cd1946795B66be9d954418546998b546634', 'https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4cea=0x556219c84974ada96e9382e041bac26398d9e214', 'https://www.coingecko.com/en/search_redirectid=kaiju-kingz&type=nft&utm_source=trending_search&utm_medium=coingecko', 'https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4cea=0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE', 'https://www.coingecko.com/en/search_redirectid=ragnarok-meta&type=nft&utm_source=trending_search&utm_medium=coingecko', 'https://www.coingecko.com/en/search_redirectid=the-baby-bears&type=nft&utm_source=trending_search&utm_medium=coingecko', 'https://www.geckoterminal.com/eth/tokens/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ceutm_source=coingecko&utm_medium=referral&utm_campaign=livechart-btn'} not in link_dict, it's model's Hallucination
+2024-12-23 03:53:20.940 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:53:20.941 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:53:22.863 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:53:22.864 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:53:32.912 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:53:32.915 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:53:36.104 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:53:36.105 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:53:45.227 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:53:45.229 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:53:50.743 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:53:50.745 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:54:04.595 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:54:04.599 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:54:13.630 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://franknez.com/analyst-now-assesses-shiba-inu-investments-for-early-retirement/utm_source=rss&utm_medium=rss&utm_campaign=analyst-now-assesses-shiba-inu-investments-for-early-retirement'} not in link_dict, it's model's Hallucination
+2024-12-23 03:54:17.181 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:54:17.182 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:54:29.084 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.coingecko.com/en/search_redirectid=the-band-bears&type=nft&utm_source=trending_search&utm_medium=coingecko', 'https://www.coingecko.com/en/search_redirectid=limitus&type=coin&source=trending', 'https://www.coingecko.com/en/search_redirectid=onchain-gaias&type=nft&utm_source=trending_search&utm_medium=coingecko'} not in link_dict, it's model's Hallucination
+2024-12-23 03:54:31.512 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:54:31.514 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:54:40.851 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:54:40.853 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:54:42.460 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:54:42.461 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:54:43.814 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:54:43.815 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:54:58.553 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/market-cap/20461655/The-TOTAL-Crypto-Market-Cap-has-gone-up-for-5-weeks-straight-post-election-It-is-now-down-1-2-weeks-still-above-the-2021-highs-and-nowhere-close-to-flipping-into-a-bearish-trend-Zoom-out-I-can-tell-you-now-that-were-going-to-see-similar-corrections-to-the-one-we-saw-this'} not in link_dict, it's model's Hallucination
+2024-12-23 03:55:00.998 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:00.999 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:03.233 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:03.237 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:13.032 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:13.035 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:15.326 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:15.327 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:16.546 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:16.546 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:24.173 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/market-cap/20418375/XRP-Price-Breaks-Out-34-in-Sight-After-Multi-Year-Rally'} not in link_dict, it's model's Hallucination
+2024-12-23 03:55:26.067 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:26.069 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:28.813 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:28.814 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:30.120 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:30.121 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:36.939 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/ripple/20460927/XRP-Price-Prediction-for-December-22'} not in link_dict, it's model's Hallucination
+2024-12-23 03:55:44.303 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:44.304 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:44.305 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:44.305 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:44.306 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:51.834 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.836 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.838 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.839 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.839 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.840 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.841 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.844 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.845 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:51.846 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:55:53.035 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:55:53.037 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:02.941 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/ripple/20460751/XRP-Community-Gets-New-Rewards-Fed-Rules-out-BTC-Reserves-and-More-Week-in-Review'} not in link_dict, it's model's Hallucination
+2024-12-23 03:56:10.118 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.120 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.121 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.123 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.124 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.125 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.125 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.125 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.126 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:10.126 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:11.825 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:11.827 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:13.163 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:13.164 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:14.382 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:14.383 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:21.613 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/ripple/20460516/Ethereum-Whales-Bought-1-Billion-ETH-In-The-Past-96-Hours-Details'} not in link_dict, it's model's Hallucination
+2024-12-23 03:56:25.820 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:25.822 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:25.823 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:25.824 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:25.826 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:30.877 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.878 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.879 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.879 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.880 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.881 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.881 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.882 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.882 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:30.883 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:32.215 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:32.217 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:33.354 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:33.355 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:43.453 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:43.455 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:43.456 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:43.458 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:43.459 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:49.318 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.318 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.319 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.319 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.319 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.320 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.320 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.320 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.321 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.321 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:49.321 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:50.500 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:50.502 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:52.098 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:52.099 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:56:58.409 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/ripple/20462036/Ripple-Moves-Big-Money-RLUSD-Sees-Distribution-XRP-Holds-Key-2-Support'} not in link_dict, it's model's Hallucination
+2024-12-23 03:56:59.911 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:56:59.912 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:03.962 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:03.963 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:03.965 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:03.965 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:03.966 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:03.967 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:03.968 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:07.271 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:07.272 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:07.273 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:08.379 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:08.380 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:14.989 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/ripple/20461757/XRP-Price-Topped-at-25-Attention-Shifts-to-PropiChain-as-Analysts-Target-3067-Rally'} not in link_dict, it's model's Hallucination
+2024-12-23 03:57:24.489 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:24.491 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:24.492 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:24.492 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:24.493 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:31.195 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:31.196 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:31.196 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:31.196 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:31.196 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:31.197 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:31.197 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:31.197 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:31.197 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:33.357 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:33.358 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:34.382 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:34.384 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:43.209 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:43.211 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:44.903 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:44.903 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:57:46.171 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:57:46.172 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:58:08.339 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.coingecko.com/en/coins/xrp', 'https://pro.kraken.com/app/trade/XRP-USDc/2223866/1766749/10583', 'https://twitter.com/searchq=', 'https://www.crypto-news-flash.com/xrp-eyes-10-milestone-but-this-hidden-altcoin-could-deliver-unbelievable-16900-returns/utm_source=rss&utm_medium=rss&utm_campaign=xrp-eyes-10-milestone-but-this-hidden-altcoin-could-deliver-unbelievable-16900-returns', 'https://www.tradingview.com/aff_id=132489', 'https://www.bitunix.com/spot-trade/XRPUSDTinviteCode=yq5pr7'} not in link_dict, it's model's Hallucination
+2024-12-23 03:58:10.181 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:58:10.182 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:58:13.913 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:58:13.913 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:58:15.217 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:58:15.218 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:58:17.507 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:58:17.513 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:58:26.867 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://coinpedia.org/news/xrp-price-prediction-for-december-21', 'https://coinpedia.org/news/xrp-price-prediction-for-december-22'} not in link_dict, it's model's Hallucination
+2024-12-23 03:58:29.887 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:58:29.888 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:58:31.081 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:58:31.082 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:58:56.697 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.binance.com/en/trade/DOGE_FDUSDref=37754157', 'https://www.benzinga.com/trading-ideas/movers/24/12/42639832/bitcoin-ethereum-dogecoin-lose-sheen-ahead-of-holidays-but-top-analyst-points-to-this-indicautm_source=coingecko&utm_campaign=partner_feed&utm_medium=partner_feed&utm_content=site'} not in link_dict, it's model's Hallucination
+2024-12-23 03:58:58.638 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:58:58.639 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:02.714 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:02.715 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:13.671 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/dogecoin/20461048/4-Tokens-That-Are-More-Bullish-Than-Ripple-XRP-and-Dogecoin-DOGE-to-Buy-and-Turn-450-into-90000'} not in link_dict, it's model's Hallucination
+2024-12-23 03:59:15.815 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:15.817 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:15.817 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:18.519 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:18.521 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:18.521 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:19.734 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:19.735 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:29.410 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:29.415 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:29.417 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:32.701 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:32.702 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:33.904 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:33.904 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:43.084 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:43.085 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:44.247 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:44.248 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 03:59:56.420 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/dogecoin/20461853/XRP-Hits-Strong-Support-Level-Is-93000-Next-for-Bitcoin-BTC-Dogecoin-DOGE-Dream-of-1-Is-Over'} not in link_dict, it's model's Hallucination
+2024-12-23 03:59:58.575 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:58.576 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 03:59:58.577 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:00:00.996 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:00.997 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:00:02.184 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:02.185 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:00:31.552 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.newsbtc.com/analysis/btc/bitcoin-price-under-pressure-92k/', 'https://www.newsbtc.com/currencies/xrp-xrp-price/', 'http://cryptotyc.care/click-native/BestWallet_BestWeb3_English_best%20wallet%20%28_presale%29nbop=NnpFWHpWUmZoeEFwSEpyejVqZ0EwSFRBdU43VnluaHRVUjI4WC9Eb1NhZ0p3U3lmQld3ZHJvT0UxWWVWUDl5ZWVUaEI3VC9SUzZjU2dNRTY1VlY3ZHcrb1kxN6zbjdpb1ZiSGRjTkEvei9NN0sxZFlhY0t1RGxCR2g0aHJBMGxMbHUxR011UWR5Nk9ESGlyYUlDVVNuU0RFVVF4TFJXc1dZWlkrWm5pakZReUIvS3VIWXlMUGVCamdDWEVJa1d1QUpFTXpObFRwdTNPc3R0d0l6V1NvcjV3ek5RK2ZNbVlBVno0WUxxUjVMU2JJRUhEMkphR2Nlckd2SXREVXg3RCtPYk5rS1dmVTZIWVl5VENvSWdVUjg5ZEc4T2ZXSVU0UmtNN00zWGhjNElKdVVqM3NRNDcrbDh0dnFkbmM0YzF0eUhCM1lxQWI1NHVpTnRETUppMmtnY2xyU1ZXRTM2NTVFdHcwUlptdm9rbmhSd1FSd1FsT081QWtpQ1hXNEZ4ZFRsNVZTN1hPWjlNd3NHVDhNeW5majlUd1VaT0dLcHBCVFFxNUdwc1BSVT0%3D'} not in link_dict, it's model's Hallucination
+2024-12-23 04:00:46.496 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.497 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.498 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.498 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.499 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.499 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.499 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.500 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.500 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.500 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.500 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.501 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.502 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.502 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.502 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.503 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.503 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.503 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.503 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.503 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.503 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:46.504 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:00:51.744 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:51.744 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:51.745 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:51.745 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:51.746 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:00:51.746 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:01:07.480 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/source/newsbtc.comfilter=hot', 'https://cryptopanic.com/news/movement/source=newsbtc.com', 'https://cryptopanic.com/news/source/newsbtc.comfilter=important', 'https://cryptopanic.com/news/source/newsbtc.comfilter=rising'} not in link_dict, it's model's Hallucination
+2024-12-23 04:01:08.817 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:01:08.818 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:01:10.827 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:01:10.829 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:01:10.830 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:01:12.026 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:01:12.027 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:01:13.200 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:01:13.201 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:01:25.273 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:01:25.274 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:01:50.557 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.okx.com/trade-spot/inj-usdtchannelid=1902090', 'https://cointelegraph.com/news/injective-sonic-smart-agent-hub-launchutm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound', 'https://www.geckoterminal.com/eth/tokens/0xe28b3b32b6c345a34ff64674606124dd5aceca30utm_source=coingecko&utm_medium=referral&utm_campaign=livechart-btn'} not in link_dict, it's model's Hallucination
+2024-12-23 04:01:53.437 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:01:53.438 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:01:55.869 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:01:55.870 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:02:07.392 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/fantom/filter=important', 'https://cryptopanic.com/news/fantom/filter=hot'} not in link_dict, it's model's Hallucination
+2024-12-23 04:02:09.829 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:02:09.831 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:02:11.091 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:02:11.093 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:02:12.915 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:02:12.915 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:02:21.330 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:02:21.331 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:02:32.716 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/arbitrum/filter=rising', 'https://cryptopanic.com/news/arbitrum/filter=hot'} not in link_dict, it's model's Hallucination
+2024-12-23 04:02:36.263 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:02:36.264 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:02:41.421 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:02:41.422 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:02:56.749 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:02:56.751 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:03:10.845 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/injective-protocol/20412033/Crypto-Price-Analysis-12-16-BITCOIN-BTC-ETHEREUM-ETH-SOLANA-SOL-RIPPLE-XRP-DOGECOIN-DOGE-CARDANO-ADA-INJECTIVE-INJ'} not in link_dict, it's model's Hallucination
+2024-12-23 04:03:14.629 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:03:14.629 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:03:26.800 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/near/filter=important'} not in link_dict, it's model's Hallucination
+2024-12-23 04:03:29.502 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:03:29.504 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:03:29.504 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:03:31.598 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:03:31.599 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:03:38.520 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cointelegraph.com/news/securitize-proposes-black-rock-buidl-back-frax-stablecoinutm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound'} not in link_dict, it's model's Hallucination
+2024-12-23 04:04:05.393 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.theblock.co/post/332112/securitize-proposes-adding-blackrocks-buidl-token-as-frax-usd-stablecoin-backingutm_source=rss&utm_medium=rss', 'https://thena.fi/swapnputCurrency=0x90c97f71e18723b0cf0dfa30ee176ab653e89f40&outputCurrency=0x55d398326f99059ff775485246999027b3197955?ref=coingecko', 'https://twitter.com/searchq='} not in link_dict, it's model's Hallucination
+2024-12-23 04:04:07.658 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:04:07.660 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:04:11.115 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:04:11.116 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:04:24.306 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:04:24.307 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:04:33.519 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/binance-usd/filter=hot', 'https://cryptopanic.com/news/binance-usd/filter=important', 'https://cryptopanic.com/news/binance-usd/filter=rising'} not in link_dict, it's model's Hallucination
+2024-12-23 04:04:37.366 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:04:37.369 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:04:45.537 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/signup/next=%2Fnews%2Ffrax%2F19549370%2FFrax-Finance-X-hacked-CEO-suspects-inside-job-at-Elon-Musks-office?next=/news/frax/19549370/Frax-Finance-X-hacked-CEO-suspects-inside-job-at-Elon-Musks-office'} not in link_dict, it's model's Hallucination
+2024-12-23 04:04:50.255 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:04:50.256 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:04:56.120 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:04:56.121 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:03.233 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:03.234 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:04.519 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:04.520 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:11.652 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:11.654 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:12.931 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:12.932 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:18.847 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:18.849 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:21.941 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:21.942 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:29.335 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:29.337 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:34.308 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/ftx-token/filter=hot', 'https://cryptopanic.com/news/ftx-token/filter=important', 'https://cryptopanic.com/news/ftx-token/filter=rising'} not in link_dict, it's model's Hallucination
+2024-12-23 04:05:47.787 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/aragon/filter=important'} not in link_dict, it's model's Hallucination
+2024-12-23 04:05:51.420 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:51.421 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:05:57.731 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:05:57.732 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:06:10.690 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/matic-network/filter=hot', 'https://cryptopanic.com/news/matic-network/filter=important', 'https://cryptopanic.com/news/matic-network/filter=rising'} not in link_dict, it's model's Hallucination
+2024-12-23 04:06:14.289 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:06:14.289 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:06:23.292 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:06:23.293 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:07:32.484 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.okx.com/trade-spot/eth-usdcchannelid=1902090', 'https://www.okx.com/trade-spot/btc-usdcchannelid=1902090', 'https://twitter.com/searchq=', 'https://tronscan.org/'} not in link_dict, it's model's Hallucination
+2024-12-23 04:08:21.363 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:21.375 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:21.379 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:08:23.801 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:23.801 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:08:24.959 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:24.960 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:08:39.771 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/signup/next=%2Fnews%2Fsolana%2F20461358%2FExpert-Hints-at-11x-Growth-for-a-New-Coin-the-Next-Binance-Coin-or-Solana?next=/news/solana/20461358/Expert-Hints-at-11x-Growth-for-a-New-Coin-the-Next-Binance-Coin-or-Solana'} not in link_dict, it's model's Hallucination
+2024-12-23 04:08:41.907 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:41.909 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:08:43.914 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:43.915 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:08:50.742 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/signup/next=/news/solana/portfolio', 'https://cryptopanic.com/accounts/login/next=/news/solana/portfolio'} not in link_dict, it's model's Hallucination
+2024-12-23 04:08:52.781 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:52.782 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:08:54.147 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:54.148 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:08:57.044 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:08:57.046 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:09:05.105 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:09:05.107 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:09:07.020 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:09:07.022 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:09:16.380 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:09:16.381 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:09:17.626 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:09:17.627 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:09:26.998 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/signup/next=%2Fnews%2Fsolana%2F20462206%2FIs-SOL-On-The-Verge-Of-Bullish-Recovery-Solana-Network-Activity-On-The-Rise?next=/news/solana/20462206/Is-SOL-On-The-Verge-Of-Bullish-Recovery-Solana-Network-Activity-On-The-Rise'} not in link_dict, it's model's Hallucination
+2024-12-23 04:09:30.485 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:09:30.487 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:10:25.426 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://www.coingecko.com/en/coins/xrp', 'https://www.xt.com/en/trade/sol_usdtref=ZHOJUG5', 'https://www.binance.com/en/trade/SOL_FDUSDref=37754157', 'https://www.bybit.com/trade/spot/SOL/USDC/affiliate_id=9763', 'https://twitter.com/searchq=%24SOL', 'https://pro.kraken.com/app/trade/SOL-USDc/2223866/1766749/10583'} not in link_dict, it's model's Hallucination
+2024-12-23 04:10:27.180 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:10:27.181 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:10:29.829 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:10:29.831 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:10:33.068 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:10:33.069 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:10:40.772 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/login/next=%2Fnews%2Fsolana%2F20460751%2FXRP-Community-Gets-New-Rewards-Fed-Rules-out-BTC-Reserves-and-More-Week-in-Review'} not in link_dict, it's model's Hallucination
+2024-12-23 04:10:44.637 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:10:44.638 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:11:14.601 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:11:14.602 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:11:17.548 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:11:17.551 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:11:25.331 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cointelegraph.com/news/saylor-floats-us-crypto-framework-with-81-trillion-bitcoin-reserve'} not in link_dict, it's model's Hallucination
+2024-12-23 04:11:28.861 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:11:28.863 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:11:37.274 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/bitcoin/20461853/XRP-Hits-Strong-Support-Level-Is-93000-Next-for-Bitcoin-BTC-Dogecoin-DOGE-Dream-of-1-Is-Over', 'https://cryptopanic.com/accounts/signup/next=%2Fnews%2Fbitcoin%2F20461853%2FXRP-Hits-Strong-Support-Level-Is-93000-Next-for-Bitcoin-BTC-Dogecoin-DOGE-Dream-of-1-Is-Over', 'https://cryptopanic.com/accounts/login/next=%2Fnews%2Fbitcoin%2F20461853%2FXRP-Hits-Strong-Support-Level-Is-93000-Next-for-Bitcoin-BTC-Dogecoin-DOGE-Dream-of-1-Is-Over'} not in link_dict, it's model's Hallucination
+2024-12-23 04:11:40.937 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:11:40.939 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:13:16.589 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/signup/next=%2Fnews%2Fbitcoin%2F20461685%2FSENATOR-TED-CRUZ-We-are-going-to-unleash-crypto-I-am-proud-to-stand-with-Bitcoin-I-am-the-only-member-of-the-US-Senate-who-is-a-Bitcoin-miner-and-I-am-proud-to-say-that-Texas-is-an-oasis-for-Bitcoin?next=/news/bitcoin/20461685/SENATOR-TED-CRUZ-We-are-going-to-unleash-crypto-I-am-proud-to-stand-with-Bitcoin-I-am-the-only-member-of-the-US-Senate-who-is-a-Bitcoin-miner-and-I-am-proud-to-say-that-Texas-is-an-oasis-for-Bitcoin'} not in link_dict, it's model's Hallucination
+2024-12-23 04:13:20.417 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:13:20.419 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:15:31.643 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/login/next=%2Fnews%2Fbitcoin%2F20462158%2FPeter-Schiffs-Sarcastic-Post-Spurs-Birth-Of-Supposed-Bitcoin-Alternative-USAcoin-With-Millions-In-Marketcap-Economist-Warns-Dont-Buy-It?next=/news/bitcoin/20462158/Peter-Schiffs-Sarcastic-Post-Spurs-Birth-Of-Supposed-Bitcoin-Alternative-USAcoin-With-Millions-In-Marketcap-Economist-Warns-Dont-Buy-It', 'https://www.benzinga.com/24/12/42640011/peter-schiffs-sarcastic-remark-births-million-dollar-usacoin-meant-to-be-an-bitcoin-alternativeutm_source=cryptopanic.com&utm_campaign=partner_feed&utm_medium=partner_feed&utm_content=site', 'https://cryptopanic.com/accounts/signup/next=%2Fnews%2Fbitcoin%2F20462158%2FPeter-Schiffs-Sarcastic-Post-Spurs-Birth-Of-Supposed-Bitcoin-Alternative-USAcoin-With-Millions-In-Marketcap-Economist-Warns-Dont-Buy-It?next=/news/bitcoin/20462158/Peter-Schiffs-Sarcastic-Post-Spurs-Birth-Of-Supposed-Bitcoin-Alternative-USAcoin-With-Millions-In-Marketcap-Economist-Warns-Dont-Buy-It'} not in link_dict, it's model's Hallucination
+2024-12-23 04:15:46.846 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:15:46.857 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:15:57.335 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/login/next=%2Fnews%2Flitecoin%2F20461101%2FMonsta-Mash-MASH-Targets-1000-Gains-as-Litecoin-LTC-and-Ripple-XRP-Prepare-for-Explosive-Breakouts', 'https://cryptopanic.com/news/litecoin/20461101/Monsta-Mash-MASH-Targets-1000-Gains-as-Litecoin-LTC-and-Ripple-XRP-Prepare-for-Explosive-Breakouts'} not in link_dict, it's model's Hallucination
+2024-12-23 04:16:00.373 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:16:00.373 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:16:05.993 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:16:05.995 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:16:13.784 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://reddit.com/r/litecoin'} not in link_dict, it's model's Hallucination
+2024-12-23 04:16:18.250 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:16:18.251 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:16:19.456 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:16:19.458 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:16:29.613 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/login/next=%2Fnews%2Flitecoin%2F20428781%2FWhy-LTC-HBAR-crypto-ETFs-can-debut-before-SOL-XRP-Analysts-explain'} not in link_dict, it's model's Hallucination
+2024-12-23 04:16:32.310 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:16:32.312 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:16:33.559 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:16:33.561 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:17:20.162 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/login/next=/news/litecoin/portfolio', 'https://cryptopanic.com/accounts/signup/next=/news/litecoin/portfolio'} not in link_dict, it's model's Hallucination
+2024-12-23 04:17:23.256 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:17:23.257 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:17:24.395 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:17:24.397 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:17:35.271 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/upland/source=thestreet.com', 'https://cryptopanic.com/news/source/thestreet.comfilter=important', 'https://cryptopanic.com/news/ripple/source=thestreet.com', 'https://cryptopanic.com/news/source/thestreet.comfilter=hot', 'https://cryptopanic.com/news/source/thestreet.comfilter=rising'} not in link_dict, it's model's Hallucination
+2024-12-23 04:17:36.695 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:17:36.696 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:17:38.798 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:17:38.799 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:18:24.481 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/accounts/signup/next=%2Fnews%2F20460301%2FBitcoin-Cost-Basis-Distribution-Reveals-Strong-Demand-At-97K-Can-BTC-Hold?next=/news/20460301/Bitcoin-Cost-Basis-Distribution-Reveals-Strong-Demand-At-97K-Can-BTC-Hold'} not in link_dict, it's model's Hallucination
+2024-12-23 04:18:28.212 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:18:28.214 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:18:29.631 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:18:29.632 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:18:37.956 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:18:37.958 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:18:39.994 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:18:39.996 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:18:41.163 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:18:41.164 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:18:50.892 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:18:50.894 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:19:02.457 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:19:02.459 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:19:08.061 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://bitconemine.com/xml/index.html'} not in link_dict, it's model's Hallucination
+2024-12-23 04:19:11.546 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:19:11.548 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:19:27.835 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/ripple/source=en.cryptonomist.ch', 'https://cryptopanic.com/news/source/en.cryptonomist.chfilter=hot', 'https://cryptopanic.com/news/chainlink/source=en.cryptonomist.ch', 'https://cryptopanic.com/news/source/en.cryptonomist.chfilter=rising', 'https://cryptopanic.com/news/dogwifcoin/source=en.cryptonomist.ch', 'https://cryptopanic.com/news/shiba-inu/source=en.cryptonomist.ch', 'https://cryptopanic.com/news/pepe/source=en.cryptonomist.ch'} not in link_dict, it's model's Hallucination
+2024-12-23 04:19:29.454 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:19:29.456 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:19:32.129 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:19:32.130 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:19:33.445 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:19:33.446 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:19:45.073 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:19:45.076 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:20:03.690 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://coingape.com/category/top/tab=Trading', 'https://coingape.com/category/top/tab=services'} not in link_dict, it's model's Hallucination
+2024-12-23 04:20:05.157 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:05.158 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:20:06.712 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:06.717 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:20:08.690 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:08.691 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:20:23.006 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://cryptopanic.com/news/source/coingape.comfilter=hot', 'https://cryptopanic.com/news/shiba-inu/source=coingape.com', 'https://cryptopanic.com/news/luna-by-virtuals/source=coingape.com', 'https://cryptopanic.com/news/bonk/source=coingape.com', 'https://cryptopanic.com/news/aixbt/source=coingape.com', 'https://cryptopanic.com/news/source/coingape.comfilter=rising', 'https://cryptopanic.com/news/max-2/source=coingape.com', 'https://cryptopanic.com/news/ripple/source=coingape.com', 'https://cryptopanic.com/news/memecoin-2/source=coingape.com', 'https://cryptopanic.com/news/aptos/source=coingape.com'} not in link_dict, it's model's Hallucination
+2024-12-23 04:20:24.289 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:24.290 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:20:25.615 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:25.616 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:20:26.872 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:26.872 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:20:34.607 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:34.608 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:20:44.820 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:44.821 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:44.822 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:44.823 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:20:44.824 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:21:24.485 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:21:24.487 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:21:29.624 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:21:29.628 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:21:50.068 | WARNING  | agents.get_info:get_info:189 - #XRP 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:21:50.069 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:22:11.340 | WARNING  | agents.get_info:get_info:189 - 最新行情 not in focus_list, it's model's Hallucination
+2024-12-23 04:22:11.341 | INFO     | agents.get_info:get_info:221 - no quality result from llm output
+2024-12-23 04:22:32.547 | WARNING  | agents.get_info:get_more_related_urls:155 - {'https://blog.shibaswap.com/shibarium-scaling-update-4', 'https://blog.shibaswap.com/gas-fees-a-simple-breakdown'} not in link_dict, it's model's Hallucination

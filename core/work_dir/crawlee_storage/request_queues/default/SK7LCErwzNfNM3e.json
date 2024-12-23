@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/litecoin/20428781/Why-LTC-HBAR-crypto-ETFs-can-debut-before-SOL-XRP-Analysts-explain",
+  "unique_key": "https://cryptopanic.com/news/litecoin/20428781/why-ltc-hbar-crypto-etfs-can-debut-before-sol-xrp-analysts-explain",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/litecoin/20428781/Why-LTC-HBAR-crypto-ETFs-can-debut-before-SOL-XRP-Analysts-explain",
+  "handled_at": "2024-12-23 04:16:33.768372+00:00",
+  "id": "SK7LCErwzNfNM3e",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/litecoin/20428781/Why-LTC-HBAR-crypto-ETFs-can-debut-before-SOL-XRP-Analysts-explain\",\n  \"unique_key\": \"https://cryptopanic.com/news/litecoin/20428781/why-ltc-hbar-crypto-etfs-can-debut-before-sol-xrp-analysts-explain\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/litecoin/20428781/Why-LTC-HBAR-crypto-ETFs-can-debut-before-SOL-XRP-Analysts-explain\",\n  \"handled_at\": \"2024-12-23 04:16:33.768372+00:00\",\n  \"id\": \"SK7LCErwzNfNM3e\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

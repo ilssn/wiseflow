@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/injective-protocol/20412033/Crypto-Price-Analysis-12-16-BITCOIN-BTC-ETHEREUM-ETH-SOLANA-SOL-RIPPLE-XRP-DOGECOIN-DOGE-CARDANO-ADA-INJECTIVE-INJ",
+  "unique_key": "https://cryptopanic.com/news/injective-protocol/20412033/crypto-price-analysis-12-16-bitcoin-btc-ethereum-eth-solana-sol-ripple-xrp-dogecoin-doge-cardano-ada-injective-inj",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/injective-protocol/20412033/Crypto-Price-Analysis-12-16-BITCOIN-BTC-ETHEREUM-ETH-SOLANA-SOL-RIPPLE-XRP-DOGECOIN-DOGE-CARDANO-ADA-INJECTIVE-INJ",
+  "handled_at": "2024-12-23 04:03:14.669687+00:00",
+  "id": "wVq7Bfn6L56Qbuv",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/injective-protocol/20412033/Crypto-Price-Analysis-12-16-BITCOIN-BTC-ETHEREUM-ETH-SOLANA-SOL-RIPPLE-XRP-DOGECOIN-DOGE-CARDANO-ADA-INJECTIVE-INJ\",\n  \"unique_key\": \"https://cryptopanic.com/news/injective-protocol/20412033/crypto-price-analysis-12-16-bitcoin-btc-ethereum-eth-solana-sol-ripple-xrp-dogecoin-doge-cardano-ada-injective-inj\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/injective-protocol/20412033/Crypto-Price-Analysis-12-16-BITCOIN-BTC-ETHEREUM-ETH-SOLANA-SOL-RIPPLE-XRP-DOGECOIN-DOGE-CARDANO-ADA-INJECTIVE-INJ\",\n  \"handled_at\": \"2024-12-23 04:03:14.669687+00:00\",\n  \"id\": \"wVq7Bfn6L56Qbuv\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

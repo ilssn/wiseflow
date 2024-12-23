@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/market-cap/20461655/The-TOTAL-Crypto-Market-Cap-has-gone-up-for-5-weeks-straight-post-election-It-is-now-down-1-2-weeks-still-above-the-2021-highs-and-nowhere-close-to-flipping-into-a-bearish-trend-Zoom-out-I-can-tell-you-now-that-were-going-to-see-similar-corrections-to-the-one-we-saw-this",
+  "unique_key": "https://cryptopanic.com/news/market-cap/20461655/the-total-crypto-market-cap-has-gone-up-for-5-weeks-straight-post-election-it-is-now-down-1-2-weeks-still-above-the-2021-highs-and-nowhere-close-to-flipping-into-a-bearish-trend-zoom-out-i-can-tell-you-now-that-were-going-to-see-similar-corrections-to-the-one-we-saw-this",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/market-cap/20461655/The-TOTAL-Crypto-Market-Cap-has-gone-up-for-5-weeks-straight-post-election-It-is-now-down-1-2-weeks-still-above-the-2021-highs-and-nowhere-close-to-flipping-into-a-bearish-trend-Zoom-out-I-can-tell-you-now-that-were-going-to-see-similar-corrections-to-the-one-we-saw-this",
+  "handled_at": "2024-12-23 03:55:03.377830+00:00",
+  "id": "ENAOS3blx1nvAYW",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/market-cap/20461655/The-TOTAL-Crypto-Market-Cap-has-gone-up-for-5-weeks-straight-post-election-It-is-now-down-1-2-weeks-still-above-the-2021-highs-and-nowhere-close-to-flipping-into-a-bearish-trend-Zoom-out-I-can-tell-you-now-that-were-going-to-see-similar-corrections-to-the-one-we-saw-this\",\n  \"unique_key\": \"https://cryptopanic.com/news/market-cap/20461655/the-total-crypto-market-cap-has-gone-up-for-5-weeks-straight-post-election-it-is-now-down-1-2-weeks-still-above-the-2021-highs-and-nowhere-close-to-flipping-into-a-bearish-trend-zoom-out-i-can-tell-you-now-that-were-going-to-see-similar-corrections-to-the-one-we-saw-this\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/market-cap/20461655/The-TOTAL-Crypto-Market-Cap-has-gone-up-for-5-weeks-straight-post-election-It-is-now-down-1-2-weeks-still-above-the-2021-highs-and-nowhere-close-to-flipping-into-a-bearish-trend-Zoom-out-I-can-tell-you-now-that-were-going-to-see-similar-corrections-to-the-one-we-saw-this\",\n  \"handled_at\": \"2024-12-23 03:55:03.377830+00:00\",\n  \"id\": \"ENAOS3blx1nvAYW\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

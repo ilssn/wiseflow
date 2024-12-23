@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/bitcoin/20461853/XRP-Hits-Strong-Support-Level-Is-93000-Next-for-Bitcoin-BTC-Dogecoin-DOGE-Dream-of-1-Is-Over",
+  "unique_key": "https://cryptopanic.com/news/bitcoin/20461853/xrp-hits-strong-support-level-is-93000-next-for-bitcoin-btc-dogecoin-doge-dream-of-1-is-over",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/bitcoin/20461853/XRP-Hits-Strong-Support-Level-Is-93000-Next-for-Bitcoin-BTC-Dogecoin-DOGE-Dream-of-1-Is-Over",
+  "handled_at": "2024-12-23 04:11:40.962722+00:00",
+  "id": "6SPKVfPbO9KQjUA",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/bitcoin/20461853/XRP-Hits-Strong-Support-Level-Is-93000-Next-for-Bitcoin-BTC-Dogecoin-DOGE-Dream-of-1-Is-Over\",\n  \"unique_key\": \"https://cryptopanic.com/news/bitcoin/20461853/xrp-hits-strong-support-level-is-93000-next-for-bitcoin-btc-dogecoin-doge-dream-of-1-is-over\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/bitcoin/20461853/XRP-Hits-Strong-Support-Level-Is-93000-Next-for-Bitcoin-BTC-Dogecoin-DOGE-Dream-of-1-Is-Over\",\n  \"handled_at\": \"2024-12-23 04:11:40.962722+00:00\",\n  \"id\": \"6SPKVfPbO9KQjUA\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

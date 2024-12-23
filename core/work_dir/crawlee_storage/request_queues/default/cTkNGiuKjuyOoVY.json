@@ -1,0 +1,19 @@
+{
+  "url": "https://curve.fi",
+  "unique_key": "https://curve.fi",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "cTkNGiuKjuyOoVY",
+  "json_": "{\n  \"url\": \"https://curve.fi\",\n  \"unique_key\": \"https://curve.fi\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"cTkNGiuKjuyOoVY\",\n  \"order_no\": \"1734926651964.327097\"\n}",
+  "order_no": "1734926651964.327097"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://u.today/xrp-price-prediction-for-december-22",
+  "unique_key": "https://u.today/xrp-price-prediction-for-december-22",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "lmVLrf5TqE44PYr",
+  "json_": "{\n  \"url\": \"https://u.today/xrp-price-prediction-for-december-22\",\n  \"unique_key\": \"https://u.today/xrp-price-prediction-for-december-22\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"lmVLrf5TqE44PYr\",\n  \"order_no\": \"1734926153122.097015\"\n}",
+  "order_no": "1734926153122.097015"
+}

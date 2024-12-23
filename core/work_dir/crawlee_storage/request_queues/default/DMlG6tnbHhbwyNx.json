@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/ripple/20460670/Ethereum-Price-Drops-12-As-Spot-ETFs-Witness-Significant-Net-Outflows",
+  "unique_key": "https://cryptopanic.com/news/ripple/20460670/ethereum-price-drops-12-as-spot-etfs-witness-significant-net-outflows",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/ripple/20460670/Ethereum-Price-Drops-12-As-Spot-ETFs-Witness-Significant-Net-Outflows",
+  "handled_at": "2024-12-23 03:56:52.177794+00:00",
+  "id": "DMlG6tnbHhbwyNx",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/ripple/20460670/Ethereum-Price-Drops-12-As-Spot-ETFs-Witness-Significant-Net-Outflows\",\n  \"unique_key\": \"https://cryptopanic.com/news/ripple/20460670/ethereum-price-drops-12-as-spot-etfs-witness-significant-net-outflows\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/ripple/20460670/Ethereum-Price-Drops-12-As-Spot-ETFs-Witness-Significant-Net-Outflows\",\n  \"handled_at\": \"2024-12-23 03:56:52.177794+00:00\",\n  \"id\": \"DMlG6tnbHhbwyNx\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

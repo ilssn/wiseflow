@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/20460574/Almost-No-New-XRP-Investors-Coming-Details",
+  "unique_key": "https://cryptopanic.com/news/20460574/almost-no-new-xrp-investors-coming-details",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/20460574/Almost-No-New-XRP-Investors-Coming-Details",
+  "handled_at": "2024-12-23 03:49:41.972847+00:00",
+  "id": "muB7ro1nF0j3bOd",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/20460574/Almost-No-New-XRP-Investors-Coming-Details\",\n  \"unique_key\": \"https://cryptopanic.com/news/20460574/almost-no-new-xrp-investors-coming-details\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/20460574/Almost-No-New-XRP-Investors-Coming-Details\",\n  \"handled_at\": \"2024-12-23 03:49:41.972847+00:00\",\n  \"id\": \"muB7ro1nF0j3bOd\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

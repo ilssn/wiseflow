@@ -1,0 +1,19 @@
+{
+  "url": "https://www.circle.com/circle-mint",
+  "unique_key": "https://www.circle.com/circle-mint",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "603DLyYO0Behglx",
+  "json_": "{\n  \"url\": \"https://www.circle.com/circle-mint\",\n  \"unique_key\": \"https://www.circle.com/circle-mint\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"603DLyYO0Behglx\",\n  \"order_no\": \"1734926807727.004051\"\n}",
+  "order_no": "1734926807727.004051"
+}

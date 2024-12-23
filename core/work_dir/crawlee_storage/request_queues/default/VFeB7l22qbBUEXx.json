@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/ripple/20460245/XRP-Price-Prediction-For-December-22",
+  "unique_key": "https://cryptopanic.com/news/ripple/20460245/xrp-price-prediction-for-december-22",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/20449456/XRP-Price-Prediction-for-December-20",
+  "handled_at": "2024-12-23 03:58:31.160053+00:00",
+  "id": "VFeB7l22qbBUEXx",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/ripple/20460245/XRP-Price-Prediction-For-December-22\",\n  \"unique_key\": \"https://cryptopanic.com/news/ripple/20460245/xrp-price-prediction-for-december-22\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/20449456/XRP-Price-Prediction-for-December-20\",\n  \"handled_at\": \"2024-12-23 03:58:31.160053+00:00\",\n  \"id\": \"VFeB7l22qbBUEXx\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/near/20413637/AI-Cryptocurrencies-Surge-208-To-615-Billion-Market-Cap-In-2024-These-Were-The-Top-Performers",
+  "unique_key": "https://cryptopanic.com/news/near/20413637/ai-cryptocurrencies-surge-208-to-615-billion-market-cap-in-2024-these-were-the-top-performers",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "oKBDhNCes40GBzq",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/near/20413637/AI-Cryptocurrencies-Surge-208-To-615-Billion-Market-Cap-In-2024-These-Were-The-Top-Performers\",\n  \"unique_key\": \"https://cryptopanic.com/news/near/20413637/ai-cryptocurrencies-surge-208-to-615-billion-market-cap-in-2024-these-were-the-top-performers\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"oKBDhNCes40GBzq\",\n  \"order_no\": \"1734926611740.905046\"\n}",
+  "order_no": "1734926611740.905046"
+}

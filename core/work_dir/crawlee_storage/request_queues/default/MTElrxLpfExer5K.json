@@ -1,0 +1,19 @@
+{
+  "url": "https://www.newsbtc.com/",
+  "unique_key": "https://www.newsbtc.com",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "MTElrxLpfExer5K",
+  "json_": "{\n  \"url\": \"https://www.newsbtc.com/\",\n  \"unique_key\": \"https://www.newsbtc.com\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"MTElrxLpfExer5K\",\n  \"order_no\": \"1734926453169.709921\"\n}",
+  "order_no": "1734926453169.709921"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://ambcrypto.com/shiba-inu-eyes-reversal-as-whales-accumulate-amid-downturn-what-now/",
+  "unique_key": "https://ambcrypto.com/shiba-inu-eyes-reversal-as-whales-accumulate-amid-downturn-what-now",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://ambcrypto.com/shiba-inu-eyes-reversal-as-whales-accumulate-amid-downturn-what-now/",
+  "handled_at": "2024-12-23 04:19:03.256604+00:00",
+  "id": "KomoNkbvHlrbdPo",
+  "json_": "{\n  \"url\": \"https://ambcrypto.com/shiba-inu-eyes-reversal-as-whales-accumulate-amid-downturn-what-now/\",\n  \"unique_key\": \"https://ambcrypto.com/shiba-inu-eyes-reversal-as-whales-accumulate-amid-downturn-what-now\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://ambcrypto.com/shiba-inu-eyes-reversal-as-whales-accumulate-amid-downturn-what-now/\",\n  \"handled_at\": \"2024-12-23 04:19:03.256604+00:00\",\n  \"id\": \"KomoNkbvHlrbdPo\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

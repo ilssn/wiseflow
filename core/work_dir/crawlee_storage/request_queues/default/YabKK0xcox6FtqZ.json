@@ -1,0 +1,19 @@
+{
+  "url": "https://u.today/priceindex/bitcoin",
+  "unique_key": "https://u.today/priceindex/bitcoin",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "YabKK0xcox6FtqZ",
+  "json_": "{\n  \"url\": \"https://u.today/priceindex/bitcoin\",\n  \"unique_key\": \"https://u.today/priceindex/bitcoin\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"YabKK0xcox6FtqZ\",\n  \"order_no\": \"1734926906035.984039\"\n}",
+  "order_no": "1734926906035.984039"
+}

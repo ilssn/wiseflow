@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/20460301/Bitcoin-Cost-Basis-Distribution-Reveals-Strong-Demand-At-97K-Can-BTC-Hold",
+  "unique_key": "https://cryptopanic.com/news/20460301/bitcoin-cost-basis-distribution-reveals-strong-demand-at-97k-can-btc-hold",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/20460301/Bitcoin-Cost-Basis-Distribution-Reveals-Strong-Demand-At-97K-Can-BTC-Hold",
+  "handled_at": "2024-12-23 04:18:29.723424+00:00",
+  "id": "sY9ak7XBeVFcdOf",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/20460301/Bitcoin-Cost-Basis-Distribution-Reveals-Strong-Demand-At-97K-Can-BTC-Hold\",\n  \"unique_key\": \"https://cryptopanic.com/news/20460301/bitcoin-cost-basis-distribution-reveals-strong-demand-at-97k-can-btc-hold\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/20460301/Bitcoin-Cost-Basis-Distribution-Reveals-Strong-Demand-At-97K-Can-BTC-Hold\",\n  \"handled_at\": \"2024-12-23 04:18:29.723424+00:00\",\n  \"id\": \"sY9ak7XBeVFcdOf\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/ripple/20461757/XRP-Price-Topped-at-25-Attention-Shifts-to-PropiChain-as-Analysts-Target-3067-Rally",
+  "unique_key": "https://cryptopanic.com/news/ripple/20461757/xrp-price-topped-at-25-attention-shifts-to-propichain-as-analysts-target-3067-rally",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/ripple/20461757/XRP-Price-Topped-at-25-Attention-Shifts-to-PropiChain-as-Analysts-Target-3067-Rally",
+  "handled_at": "2024-12-23 03:57:34.435263+00:00",
+  "id": "esBQIc3rpNxOWVF",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/ripple/20461757/XRP-Price-Topped-at-25-Attention-Shifts-to-PropiChain-as-Analysts-Target-3067-Rally\",\n  \"unique_key\": \"https://cryptopanic.com/news/ripple/20461757/xrp-price-topped-at-25-attention-shifts-to-propichain-as-analysts-target-3067-rally\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/ripple/20461757/XRP-Price-Topped-at-25-Attention-Shifts-to-PropiChain-as-Analysts-Target-3067-Rally\",\n  \"handled_at\": \"2024-12-23 03:57:34.435263+00:00\",\n  \"id\": \"esBQIc3rpNxOWVF\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

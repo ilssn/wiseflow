@@ -1,0 +1,19 @@
+{
+  "url": "https://en.cryptonomist.ch/2024/12/22/xrp-price-topped-2-5/",
+  "unique_key": "https://en.cryptonomist.ch/2024/12/22/xrp-price-topped-2-5",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "NrHgej6qUYNl9ue",
+  "json_": "{\n  \"url\": \"https://en.cryptonomist.ch/2024/12/22/xrp-price-topped-2-5/\",\n  \"unique_key\": \"https://en.cryptonomist.ch/2024/12/22/xrp-price-topped-2-5\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"NrHgej6qUYNl9ue\",\n  \"order_no\": \"1734926254425.683975\"\n}",
+  "order_no": "1734926254425.683975"
+}

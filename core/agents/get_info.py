@@ -13,8 +13,8 @@ class GeneralInfoExtractor:
     def __init__(self, pb: PbTalker, _logger: logger) -> None:
         self.pb = pb
         self.logger = _logger
-        self.model = os.environ.get("PRIMARY_MODEL", "Qwen/Qwen2.5-7B-Instruct") # better to use "Qwen/Qwen2.5-14B-Instruct"
-        self.secondary_model = os.environ.get("SECONDARY_MODEL", "THUDM/glm-4-9b-chat")
+        self.model = os.environ.get("PRIMARY_MODEL", "Qwen2.5-7B-Instruct") # better to use "Qwen/Qwen2.5-14B-Instruct"
+        self.secondary_model = os.environ.get("SECONDARY_MODEL", "Qwen2.5-7B-Instruct")
 
         # collect tags user set in pb database and determin the system prompt language based on tags
         focus_data = pb.read(collection_name='focus_points', filter=f'activated=True')

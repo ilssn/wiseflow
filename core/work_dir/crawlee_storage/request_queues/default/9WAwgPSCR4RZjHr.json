@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/20462251/Sorry-Saylor-Bitcoin-was-always-about-payments-minisatoshi-releases-BCH-upgrade-history-to-complement-epic-BTC-fork-map",
+  "unique_key": "https://cryptopanic.com/news/20462251/sorry-saylor-bitcoin-was-always-about-payments-minisatoshi-releases-bch-upgrade-history-to-complement-epic-btc-fork-map",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "9WAwgPSCR4RZjHr",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/20462251/Sorry-Saylor-Bitcoin-was-always-about-payments-minisatoshi-releases-BCH-upgrade-history-to-complement-epic-BTC-fork-map\",\n  \"unique_key\": \"https://cryptopanic.com/news/20462251/sorry-saylor-bitcoin-was-always-about-payments-minisatoshi-releases-bch-upgrade-history-to-complement-epic-btc-fork-map\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"9WAwgPSCR4RZjHr\",\n  \"order_no\": \"1734927509717.207909\"\n}",
+  "order_no": "1734927509717.207909"
+}

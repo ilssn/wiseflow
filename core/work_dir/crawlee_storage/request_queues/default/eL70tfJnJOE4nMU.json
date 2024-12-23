@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/20449456/XRP-Price-Prediction-for-December-20",
+  "unique_key": "https://cryptopanic.com/news/20449456/xrp-price-prediction-for-december-20",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "eL70tfJnJOE4nMU",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/20449456/XRP-Price-Prediction-for-December-20\",\n  \"unique_key\": \"https://cryptopanic.com/news/20449456/xrp-price-prediction-for-december-20\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"eL70tfJnJOE4nMU\",\n  \"order_no\": \"1734926311142.575979\"\n}",
+  "order_no": "1734926311142.575979"
+}

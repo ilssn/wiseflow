@@ -1,0 +1,19 @@
+{
+  "url": "https://blog.shibaswap.com/shibarium-scaling-post-2/",
+  "unique_key": "https://blog.shibaswap.com/shibarium-scaling-post-2",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "4OrArkrLF0osf7y",
+  "json_": "{\n  \"url\": \"https://blog.shibaswap.com/shibarium-scaling-post-2/\",\n  \"unique_key\": \"https://blog.shibaswap.com/shibarium-scaling-post-2\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"4OrArkrLF0osf7y\",\n  \"order_no\": \"1734927756408.467054\"\n}",
+  "order_no": "1734927756408.467054"
+}

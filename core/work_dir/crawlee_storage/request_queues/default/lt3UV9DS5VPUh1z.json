@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/dogecoin/20461048/4-Tokens-That-Are-More-Bullish-Than-Ripple-XRP-and-Dogecoin-DOGE-to-Buy-and-Turn-450-into-90000",
+  "unique_key": "https://cryptopanic.com/news/dogecoin/20461048/4-tokens-that-are-more-bullish-than-ripple-xrp-and-dogecoin-doge-to-buy-and-turn-450-into-90000",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/dogecoin/20461048/4-Tokens-That-Are-More-Bullish-Than-Ripple-XRP-and-Dogecoin-DOGE-to-Buy-and-Turn-450-into-90000",
+  "handled_at": "2024-12-23 03:59:19.823220+00:00",
+  "id": "lt3UV9DS5VPUh1z",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/dogecoin/20461048/4-Tokens-That-Are-More-Bullish-Than-Ripple-XRP-and-Dogecoin-DOGE-to-Buy-and-Turn-450-into-90000\",\n  \"unique_key\": \"https://cryptopanic.com/news/dogecoin/20461048/4-tokens-that-are-more-bullish-than-ripple-xrp-and-dogecoin-doge-to-buy-and-turn-450-into-90000\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/dogecoin/20461048/4-Tokens-That-Are-More-Bullish-Than-Ripple-XRP-and-Dogecoin-DOGE-to-Buy-and-Turn-450-into-90000\",\n  \"handled_at\": \"2024-12-23 03:59:19.823220+00:00\",\n  \"id\": \"lt3UV9DS5VPUh1z\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

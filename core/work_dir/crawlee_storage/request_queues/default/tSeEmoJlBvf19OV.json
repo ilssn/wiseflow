@@ -1,0 +1,19 @@
+{
+  "url": "https://ambcrypto.com/crypto-market-weekly-review-22-december/",
+  "unique_key": "https://ambcrypto.com/crypto-market-weekly-review-22-december",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "tSeEmoJlBvf19OV",
+  "json_": "{\n  \"url\": \"https://ambcrypto.com/crypto-market-weekly-review-22-december/\",\n  \"unique_key\": \"https://ambcrypto.com/crypto-market-weekly-review-22-december\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"tSeEmoJlBvf19OV\",\n  \"order_no\": \"1734927543251.761913\"\n}",
+  "order_no": "1734927543251.761913"
+}

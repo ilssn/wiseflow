@@ -1,0 +1,20 @@
+{
+  "url": "https://www.coingecko.com/en/coins/bitcoin",
+  "unique_key": "https://www.coingecko.com/en/coins/bitcoin",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 5,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.coingecko.com/en/coins/bitcoin",
+  "handled_at": null,
+  "id": "2doKhUfuhMXVZ2q",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/bitcoin\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/bitcoin\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 5,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 1,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.coingecko.com/en/coins/bitcoin\",\n  \"handled_at\": null,\n  \"id\": \"2doKhUfuhMXVZ2q\",\n  \"order_no\": \"1734927134670.608997\"\n}",
+  "order_no": "1734927134670.608997"
+}

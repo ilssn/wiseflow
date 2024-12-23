@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/20462254/XRP-Price-at-Risk-Can-Support-Levels-Hold",
+  "unique_key": "https://cryptopanic.com/news/20462254/xrp-price-at-risk-can-support-levels-hold",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "fP1VJVZsk28LPqI",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/20462254/XRP-Price-at-Risk-Can-Support-Levels-Hold\",\n  \"unique_key\": \"https://cryptopanic.com/news/20462254/xrp-price-at-risk-can-support-levels-hold\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"fP1VJVZsk28LPqI\",\n  \"order_no\": \"1734927521199.856997\"\n}",
+  "order_no": "1734927521199.856997"
+}

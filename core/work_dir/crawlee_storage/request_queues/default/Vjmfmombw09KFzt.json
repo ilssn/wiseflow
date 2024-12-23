@@ -1,0 +1,19 @@
+{
+  "url": "https://ftmscan.com/token/0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+  "unique_key": "https://ftmscan.com/token/0x04068da6c83afcfa0e13ba15a6696662335d5b75",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "Vjmfmombw09KFzt",
+  "json_": "{\n  \"url\": \"https://ftmscan.com/token/0x04068da6c83afcfa0e13ba15a6696662335d5b75\",\n  \"unique_key\": \"https://ftmscan.com/token/0x04068da6c83afcfa0e13ba15a6696662335d5b75\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"Vjmfmombw09KFzt\",\n  \"order_no\": \"1734926855692.385912\"\n}",
+  "order_no": "1734926855692.385912"
+}

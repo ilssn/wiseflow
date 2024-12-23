@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coingecko.com/en/coins/fuel-network/usd",
+  "unique_key": "https://www.coingecko.com/en/coins/fuel-network/usd",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "YoLS7xNpGLHE0HK",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/fuel-network/usd\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/fuel-network/usd\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"YoLS7xNpGLHE0HK\",\n  \"order_no\": \"1734927732287.720919\"\n}",
+  "order_no": "1734927732287.720919"
+}

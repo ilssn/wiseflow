@@ -1,0 +1,19 @@
+{
+  "url": "https://u.today/xrp-hits-strong-support-level-is-93000-next-for-bitcoin-btc-dogecoin-doge-dream-of-1-is-over",
+  "unique_key": "https://u.today/xrp-hits-strong-support-level-is-93000-next-for-bitcoin-btc-dogecoin-doge-dream-of-1-is-over",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "hzqx5Xc9tnVbtkE",
+  "json_": "{\n  \"url\": \"https://u.today/xrp-hits-strong-support-level-is-93000-next-for-bitcoin-btc-dogecoin-doge-dream-of-1-is-over\",\n  \"unique_key\": \"https://u.today/xrp-hits-strong-support-level-is-93000-next-for-bitcoin-btc-dogecoin-doge-dream-of-1-is-over\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"hzqx5Xc9tnVbtkE\",\n  \"order_no\": \"1734926266288.810968\"\n}",
+  "order_no": "1734926266288.810968"
+}

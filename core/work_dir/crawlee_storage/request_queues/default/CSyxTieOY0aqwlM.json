@@ -1,0 +1,20 @@
+{
+  "url": "https://www.thestreet.com/crypto/policy/trump-taps-pro-bitcoin-stephen-miran-for-key-economic-role",
+  "unique_key": "https://www.thestreet.com/crypto/policy/trump-taps-pro-bitcoin-stephen-miran-for-key-economic-role",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 5,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 1,
+  "no_retry": false,
+  "loaded_url": "https://www.thestreet.com/crypto/policy/trump-taps-pro-bitcoin-stephen-miran-for-key-economic-role",
+  "handled_at": null,
+  "id": "CSyxTieOY0aqwlM",
+  "json_": "{\n  \"url\": \"https://www.thestreet.com/crypto/policy/trump-taps-pro-bitcoin-stephen-miran-for-key-economic-role\",\n  \"unique_key\": \"https://www.thestreet.com/crypto/policy/trump-taps-pro-bitcoin-stephen-miran-for-key-economic-role\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 5,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 1,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.thestreet.com/crypto/policy/trump-taps-pro-bitcoin-stephen-miran-for-key-economic-role\",\n  \"handled_at\": null,\n  \"id\": \"CSyxTieOY0aqwlM\",\n  \"order_no\": \"1734927493010.757923\"\n}",
+  "order_no": "1734927493010.757923"
+}

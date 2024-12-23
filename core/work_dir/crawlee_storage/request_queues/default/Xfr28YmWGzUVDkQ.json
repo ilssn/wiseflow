@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/20451990/164-Million-Cardano-ADA-Outflow-Buy-Opportunity",
+  "unique_key": "https://cryptopanic.com/news/20451990/164-million-cardano-ada-outflow-buy-opportunity",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/20451990/164-Million-Cardano-ADA-Outflow-Buy-Opportunity",
+  "handled_at": "2024-12-23 04:18:41.221045+00:00",
+  "id": "Xfr28YmWGzUVDkQ",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/20451990/164-Million-Cardano-ADA-Outflow-Buy-Opportunity\",\n  \"unique_key\": \"https://cryptopanic.com/news/20451990/164-million-cardano-ada-outflow-buy-opportunity\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/20451990/164-Million-Cardano-ADA-Outflow-Buy-Opportunity\",\n  \"handled_at\": \"2024-12-23 04:18:41.221045+00:00\",\n  \"id\": \"Xfr28YmWGzUVDkQ\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

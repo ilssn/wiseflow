@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coinbase.com/advanced-trade/spot/INJ-USD",
+  "unique_key": "https://www.coinbase.com/advanced-trade/spot/inj-usd",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "40qRe0St4rosIp3",
+  "json_": "{\n  \"url\": \"https://www.coinbase.com/advanced-trade/spot/INJ-USD\",\n  \"unique_key\": \"https://www.coinbase.com/advanced-trade/spot/inj-usd\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"40qRe0St4rosIp3\",\n  \"order_no\": \"1734926516039.314985\"\n}",
+  "order_no": "1734926516039.314985"
+}

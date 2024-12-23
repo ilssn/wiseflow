@@ -1,0 +1,19 @@
+{
+  "url": "https://coingape.com/xrp-news-ripple-transfers-90m-coins-whats-happening/",
+  "unique_key": "https://coingape.com/xrp-news-ripple-transfers-90m-coins-whats-happening",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "p1NrsbQXeSy6zmP",
+  "json_": "{\n  \"url\": \"https://coingape.com/xrp-news-ripple-transfers-90m-coins-whats-happening/\",\n  \"unique_key\": \"https://coingape.com/xrp-news-ripple-transfers-90m-coins-whats-happening\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"p1NrsbQXeSy6zmP\",\n  \"order_no\": \"1734927609451.633930\"\n}",
+  "order_no": "1734927609451.633930"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coingecko.com/en/coins/dogecoin/aud",
+  "unique_key": "https://www.coingecko.com/en/coins/dogecoin/aud",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "VhHSNxxu3bRsMjB",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/dogecoin/aud\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/dogecoin/aud\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"VhHSNxxu3bRsMjB\",\n  \"order_no\": \"1734926343514.714003\"\n}",
+  "order_no": "1734926343514.714003"
+}

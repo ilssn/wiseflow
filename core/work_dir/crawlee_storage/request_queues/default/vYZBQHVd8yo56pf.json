@@ -1,0 +1,19 @@
+{
+  "url": "https://u.today/guides/shiba-inu-price-triggers-reviewing-shib-with-kraken",
+  "unique_key": "https://u.today/guides/shiba-inu-price-triggers-reviewing-shib-with-kraken",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "vYZBQHVd8yo56pf",
+  "json_": "{\n  \"url\": \"https://u.today/guides/shiba-inu-price-triggers-reviewing-shib-with-kraken\",\n  \"unique_key\": \"https://u.today/guides/shiba-inu-price-triggers-reviewing-shib-with-kraken\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"vYZBQHVd8yo56pf\",\n  \"order_no\": \"1734926906009.970903\"\n}",
+  "order_no": "1734926906009.970903"
+}

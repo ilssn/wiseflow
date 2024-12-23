@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/solana/20460751/XRP-Community-Gets-New-Rewards-Fed-Rules-out-BTC-Reserves-and-More-Week-in-Review",
+  "unique_key": "https://cryptopanic.com/news/solana/20460751/xrp-community-gets-new-rewards-fed-rules-out-btc-reserves-and-more-week-in-review",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/solana/20460751/XRP-Community-Gets-New-Rewards-Fed-Rules-out-BTC-Reserves-and-More-Week-in-Review",
+  "handled_at": "2024-12-23 04:10:44.662469+00:00",
+  "id": "J1F46YaHsH1Akj0",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/solana/20460751/XRP-Community-Gets-New-Rewards-Fed-Rules-out-BTC-Reserves-and-More-Week-in-Review\",\n  \"unique_key\": \"https://cryptopanic.com/news/solana/20460751/xrp-community-gets-new-rewards-fed-rules-out-btc-reserves-and-more-week-in-review\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/solana/20460751/XRP-Community-Gets-New-Rewards-Fed-Rules-out-BTC-Reserves-and-More-Week-in-Review\",\n  \"handled_at\": \"2024-12-23 04:10:44.662469+00:00\",\n  \"id\": \"J1F46YaHsH1Akj0\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

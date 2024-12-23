@@ -1,0 +1,19 @@
+{
+  "url": "https://u.today/xrp-price-analysis",
+  "unique_key": "https://u.today/xrp-price-analysis",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "C2MOI1MaWDetjvL",
+  "json_": "{\n  \"url\": \"https://u.today/xrp-price-analysis\",\n  \"unique_key\": \"https://u.today/xrp-price-analysis\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"C2MOI1MaWDetjvL\",\n  \"order_no\": \"1734926905990.629911\"\n}",
+  "order_no": "1734926905990.629911"
+}

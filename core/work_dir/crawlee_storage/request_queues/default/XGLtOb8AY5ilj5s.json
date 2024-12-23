@@ -1,0 +1,19 @@
+{
+  "url": "https://u.today/doge-to-moon-or-ground-dogecoin-creator-breaks-silence-on-2025-forecast",
+  "unique_key": "https://u.today/doge-to-moon-or-ground-dogecoin-creator-breaks-silence-on-2025-forecast",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 4
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "XGLtOb8AY5ilj5s",
+  "json_": "{\n  \"url\": \"https://u.today/doge-to-moon-or-ground-dogecoin-creator-breaks-silence-on-2025-forecast\",\n  \"unique_key\": \"https://u.today/doge-to-moon-or-ground-dogecoin-creator-breaks-silence-on-2025-forecast\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 4\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"XGLtOb8AY5ilj5s\",\n  \"order_no\": \"1734927586781.722069\"\n}",
+  "order_no": "1734927586781.722069"
+}

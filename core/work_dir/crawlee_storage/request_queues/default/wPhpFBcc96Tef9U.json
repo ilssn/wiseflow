@@ -1,0 +1,20 @@
+{
+  "url": "https://www.coingecko.com/en/coins/dogecoin",
+  "unique_key": "https://www.coingecko.com/en/coins/dogecoin",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://www.coingecko.com/en/coins/dogecoin",
+  "handled_at": "2024-12-23 03:59:03.583228+00:00",
+  "id": "wPhpFBcc96Tef9U",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/dogecoin\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/dogecoin\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.coingecko.com/en/coins/dogecoin\",\n  \"handled_at\": \"2024-12-23 03:59:03.583228+00:00\",\n  \"id\": \"wPhpFBcc96Tef9U\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

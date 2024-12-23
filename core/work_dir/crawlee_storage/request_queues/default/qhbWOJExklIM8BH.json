@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/usd-coin/20460110/Bitcoin-Drops-Below-100000-The-End-Or-Beginning-Of-The-Crypto-Bull-Market",
+  "unique_key": "https://cryptopanic.com/news/usd-coin/20460110/bitcoin-drops-below-100000-the-end-or-beginning-of-the-crypto-bull-market",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/usd-coin/20460110/Bitcoin-Drops-Below-100000-The-End-Or-Beginning-Of-The-Crypto-Bull-Market",
+  "handled_at": "2024-12-23 04:07:00.712583+00:00",
+  "id": "qhbWOJExklIM8BH",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/usd-coin/20460110/Bitcoin-Drops-Below-100000-The-End-Or-Beginning-Of-The-Crypto-Bull-Market\",\n  \"unique_key\": \"https://cryptopanic.com/news/usd-coin/20460110/bitcoin-drops-below-100000-the-end-or-beginning-of-the-crypto-bull-market\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/usd-coin/20460110/Bitcoin-Drops-Below-100000-The-End-Or-Beginning-Of-The-Crypto-Bull-Market\",\n  \"handled_at\": \"2024-12-23 04:07:00.712583+00:00\",\n  \"id\": \"qhbWOJExklIM8BH\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

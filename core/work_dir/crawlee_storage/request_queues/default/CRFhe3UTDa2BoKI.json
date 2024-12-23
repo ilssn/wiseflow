@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/fantom/20414327/Fantom-FTM-crypto-price-prediction-Why-16-is-near",
+  "unique_key": "https://cryptopanic.com/news/fantom/20414327/fantom-ftm-crypto-price-prediction-why-16-is-near",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "CRFhe3UTDa2BoKI",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/fantom/20414327/Fantom-FTM-crypto-price-prediction-Why-16-is-near\",\n  \"unique_key\": \"https://cryptopanic.com/news/fantom/20414327/fantom-ftm-crypto-price-prediction-why-16-is-near\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"CRFhe3UTDa2BoKI\",\n  \"order_no\": \"1734926532951.261997\"\n}",
+  "order_no": "1734926532951.261997"
+}

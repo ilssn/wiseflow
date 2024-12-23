@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/polls/20366587/Will-bitcoin-pump-because-Donald-trumps-presidential-inauguration",
+  "unique_key": "https://cryptopanic.com/polls/20366587/will-bitcoin-pump-because-donald-trumps-presidential-inauguration",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 1
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/polls/20366587/Will-bitcoin-pump-because-Donald-trumps-presidential-inauguration",
+  "handled_at": "2024-12-23 03:49:13.708035+00:00",
+  "id": "NslkusmjhcOMkRc",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/polls/20366587/Will-bitcoin-pump-because-Donald-trumps-presidential-inauguration\",\n  \"unique_key\": \"https://cryptopanic.com/polls/20366587/will-bitcoin-pump-because-donald-trumps-presidential-inauguration\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 1\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/polls/20366587/Will-bitcoin-pump-because-Donald-trumps-presidential-inauguration\",\n  \"handled_at\": \"2024-12-23 03:49:13.708035+00:00\",\n  \"id\": \"NslkusmjhcOMkRc\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

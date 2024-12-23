@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/aragon/options",
+  "unique_key": "https://cryptopanic.com/news/aragon/options",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "3tewjlxOaK5R4Zt",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/aragon/options\",\n  \"unique_key\": \"https://cryptopanic.com/news/aragon/options\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"3tewjlxOaK5R4Zt\",\n  \"order_no\": \"1734926751432.336092\"\n}",
+  "order_no": "1734926751432.336092"
+}

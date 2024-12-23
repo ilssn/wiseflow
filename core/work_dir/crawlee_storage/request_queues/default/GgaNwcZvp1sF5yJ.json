@@ -1,0 +1,20 @@
+{
+  "url": "https://coingape.com/markets/will-shiba-inu-price-hold-critical-support-amid-market-volatility/",
+  "unique_key": "https://coingape.com/markets/will-shiba-inu-price-hold-critical-support-amid-market-volatility",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://coingape.com/markets/will-shiba-inu-price-hold-critical-support-amid-market-volatility/",
+  "handled_at": "2024-12-23 04:20:09.465262+00:00",
+  "id": "GgaNwcZvp1sF5yJ",
+  "json_": "{\n  \"url\": \"https://coingape.com/markets/will-shiba-inu-price-hold-critical-support-amid-market-volatility/\",\n  \"unique_key\": \"https://coingape.com/markets/will-shiba-inu-price-hold-critical-support-amid-market-volatility\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://coingape.com/markets/will-shiba-inu-price-hold-critical-support-amid-market-volatility/\",\n  \"handled_at\": \"2024-12-23 04:20:09.465262+00:00\",\n  \"id\": \"GgaNwcZvp1sF5yJ\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

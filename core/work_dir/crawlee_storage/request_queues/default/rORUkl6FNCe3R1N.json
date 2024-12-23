@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/injective-protocol/portfolio",
+  "unique_key": "https://cryptopanic.com/news/injective-protocol/portfolio",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/injective-protocol/portfolio",
+  "handled_at": "2024-12-23 04:02:21.368596+00:00",
+  "id": "rORUkl6FNCe3R1N",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/injective-protocol/portfolio\",\n  \"unique_key\": \"https://cryptopanic.com/news/injective-protocol/portfolio\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/injective-protocol/portfolio\",\n  \"handled_at\": \"2024-12-23 04:02:21.368596+00:00\",\n  \"id\": \"rORUkl6FNCe3R1N\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

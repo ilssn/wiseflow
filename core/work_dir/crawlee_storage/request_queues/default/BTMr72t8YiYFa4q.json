@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/injective-protocol/20324281/NordVPN-Christmas-Campaign-Special-Offer-Up-to-74-off-3-extra-months-starting-at-299-299",
+  "unique_key": "https://cryptopanic.com/news/injective-protocol/20324281/nordvpn-christmas-campaign-special-offer-up-to-74-off-3-extra-months-starting-at-299-299",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "BTMr72t8YiYFa4q",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/injective-protocol/20324281/NordVPN-Christmas-Campaign-Special-Offer-Up-to-74-off-3-extra-months-starting-at-299-299\",\n  \"unique_key\": \"https://cryptopanic.com/news/injective-protocol/20324281/nordvpn-christmas-campaign-special-offer-up-to-74-off-3-extra-months-starting-at-299-299\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"BTMr72t8YiYFa4q\",\n  \"order_no\": \"1734926541356.894970\"\n}",
+  "order_no": "1734926541356.894970"
+}

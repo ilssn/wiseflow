@@ -1,0 +1,20 @@
+{
+  "url": "https://twitter.com/Ripple",
+  "unique_key": "https://twitter.com/ripple",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://x.com/Ripple?mx=2",
+  "handled_at": "2024-12-23 03:58:37.107385+00:00",
+  "id": "ECTAhDEtgNY3d5G",
+  "json_": "{\n  \"url\": \"https://twitter.com/Ripple\",\n  \"unique_key\": \"https://twitter.com/ripple\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://x.com/Ripple?mx=2\",\n  \"handled_at\": \"2024-12-23 03:58:37.107385+00:00\",\n  \"id\": \"ECTAhDEtgNY3d5G\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

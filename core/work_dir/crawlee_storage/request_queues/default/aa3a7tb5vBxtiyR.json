@@ -1,0 +1,20 @@
+{
+  "url": "https://u.today/shiba-inu-shib-eyes-epic-35-trillion-shib-bearish-imbalance",
+  "unique_key": "https://u.today/shiba-inu-shib-eyes-epic-35-trillion-shib-bearish-imbalance",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://u.today/shiba-inu-shib-eyes-epic-35-trillion-shib-bearish-imbalance",
+  "handled_at": "2024-12-23 04:19:46.791936+00:00",
+  "id": "aa3a7tb5vBxtiyR",
+  "json_": "{\n  \"url\": \"https://u.today/shiba-inu-shib-eyes-epic-35-trillion-shib-bearish-imbalance\",\n  \"unique_key\": \"https://u.today/shiba-inu-shib-eyes-epic-35-trillion-shib-bearish-imbalance\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://u.today/shiba-inu-shib-eyes-epic-35-trillion-shib-bearish-imbalance\",\n  \"handled_at\": \"2024-12-23 04:19:46.791936+00:00\",\n  \"id\": \"aa3a7tb5vBxtiyR\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

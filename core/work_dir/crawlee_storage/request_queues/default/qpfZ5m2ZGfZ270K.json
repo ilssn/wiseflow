@@ -1,0 +1,20 @@
+{
+  "url": "https://cryptopanic.com/news/ripple/20460516/Ethereum-Whales-Bought-1-Billion-ETH-In-The-Past-96-Hours-Details",
+  "unique_key": "https://cryptopanic.com/news/ripple/20460516/ethereum-whales-bought-1-billion-eth-in-the-past-96-hours-details",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "state": 3,
+      "crawlDepth": 2
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": "https://cryptopanic.com/news/ripple/20460516/Ethereum-Whales-Bought-1-Billion-ETH-In-The-Past-96-Hours-Details",
+  "handled_at": "2024-12-23 03:56:33.441974+00:00",
+  "id": "qpfZ5m2ZGfZ270K",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/ripple/20460516/Ethereum-Whales-Bought-1-Billion-ETH-In-The-Past-96-Hours-Details\",\n  \"unique_key\": \"https://cryptopanic.com/news/ripple/20460516/ethereum-whales-bought-1-billion-eth-in-the-past-96-hours-details\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": 3,\n      \"crawlDepth\": 2\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://cryptopanic.com/news/ripple/20460516/Ethereum-Whales-Bought-1-Billion-ETH-In-The-Past-96-Hours-Details\",\n  \"handled_at\": \"2024-12-23 03:56:33.441974+00:00\",\n  \"id\": \"qpfZ5m2ZGfZ270K\",\n  \"order_no\": null\n}",
+  "order_no": null
+}

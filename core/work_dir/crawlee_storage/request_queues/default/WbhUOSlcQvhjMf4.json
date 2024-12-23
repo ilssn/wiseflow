@@ -1,0 +1,19 @@
+{
+  "url": "https://news.bitcoin.com/ripple-moves-big-money-rlusd-sees-distribution-xrp-holds-key-2-support/",
+  "unique_key": "https://news.bitcoin.com/ripple-moves-big-money-rlusd-sees-distribution-xrp-holds-key-2-support",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "WbhUOSlcQvhjMf4",
+  "json_": "{\n  \"url\": \"https://news.bitcoin.com/ripple-moves-big-money-rlusd-sees-distribution-xrp-holds-key-2-support/\",\n  \"unique_key\": \"https://news.bitcoin.com/ripple-moves-big-money-rlusd-sees-distribution-xrp-holds-key-2-support\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"WbhUOSlcQvhjMf4\",\n  \"order_no\": \"1734926228495.054007\"\n}",
+  "order_no": "1734926228495.054007"
+}

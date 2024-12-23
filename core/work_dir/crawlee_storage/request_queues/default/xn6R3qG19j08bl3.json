@@ -1,0 +1,19 @@
+{
+  "url": "https://ftx.com",
+  "unique_key": "https://ftx.com",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "xn6R3qG19j08bl3",
+  "json_": "{\n  \"url\": \"https://ftx.com\",\n  \"unique_key\": \"https://ftx.com\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"xn6R3qG19j08bl3\",\n  \"order_no\": \"1734926736917.646885\"\n}",
+  "order_no": "1734926736917.646885"
+}

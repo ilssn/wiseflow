@@ -1,0 +1,19 @@
+{
+  "url": "https://www.coingecko.com/en/coins/dogecoin/cad",
+  "unique_key": "https://www.coingecko.com/en/coins/dogecoin/cad",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "6Zhpke8FTR7wUfc",
+  "json_": "{\n  \"url\": \"https://www.coingecko.com/en/coins/dogecoin/cad\",\n  \"unique_key\": \"https://www.coingecko.com/en/coins/dogecoin/cad\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"6Zhpke8FTR7wUfc\",\n  \"order_no\": \"1734926343569.350958\"\n}",
+  "order_no": "1734926343569.350958"
+}

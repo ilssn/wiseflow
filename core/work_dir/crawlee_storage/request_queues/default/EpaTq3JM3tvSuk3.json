@@ -1,0 +1,19 @@
+{
+  "url": "https://cryptopanic.com/news/binance-usd/portfolio",
+  "unique_key": "https://cryptopanic.com/news/binance-usd/portfolio",
+  "method": "GET",
+  "headers": {},
+  "payload": null,
+  "user_data": {
+    "__crawlee": {
+      "crawlDepth": 3
+    }
+  },
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "EpaTq3JM3tvSuk3",
+  "json_": "{\n  \"url\": \"https://cryptopanic.com/news/binance-usd/portfolio\",\n  \"unique_key\": \"https://cryptopanic.com/news/binance-usd/portfolio\",\n  \"method\": \"GET\",\n  \"headers\": {},\n  \"payload\": null,\n  \"user_data\": {\n    \"__crawlee\": {\n      \"crawlDepth\": 3\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": null,\n  \"id\": \"EpaTq3JM3tvSuk3\",\n  \"order_no\": \"1734926677450.007915\"\n}",
+  "order_no": "1734926677450.007915"
+}
