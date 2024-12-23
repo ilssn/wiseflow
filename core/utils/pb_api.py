@@ -7,7 +7,7 @@ from typing import BinaryIO, Optional, List, Dict
 class PbTalker:
     def __init__(self, logger) -> None:
         # 1. base initialization
-        url = os.environ.get('PB_API_BASE', "http://127.0.0.1:8090")
+        url = os.environ.get('PB_API_BASE', "http://127.0.0.1:8095")
         self.logger = logger
         self.logger.debug(f"initializing pocketbase client: {url}")
         self.client = PocketBase(url)
