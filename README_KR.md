@@ -154,7 +154,7 @@ chmod +x run.sh
 
 ### 5. **관심사 및 정기 스캔 정보 소스 추가**
 
-프로그램을 시작한 후, pocketbase Admin dashboard UI (http://127.0.0.1:8090/_/)를 여세요.
+프로그램을 시작한 후, pocketbase Admin dashboard UI (http://127.0.0.1:8095/_/)를 여세요.
 
 #### 5.1 focus_point 폼 열기
 

@@ -155,7 +155,7 @@ You can try the third-party proxy **AiHubMix**, seamlessly access a wide range o
 
 ### 5. **Adding Focus Points and Scheduled Scanning of Information Sources**
     
-After starting the program, open the pocketbase Admin dashboard UI (http://127.0.0.1:8090/_/)
+After starting the program, open the pocketbase Admin dashboard UI (http://127.0.0.1:8095/_/)
     
 #### 5.1 Open the focus_point Form
 

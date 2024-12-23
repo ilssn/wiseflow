@@ -7,7 +7,7 @@ services:
     stdin_open: true
     entrypoint: ["bash", "/app/docker_entrypoint.sh"]
     ports:
-      - 8090:8090
+      - 8095:8095
     volumes:
       - ./core:/app
       - ./pb/pb_data:/pb/pb_data

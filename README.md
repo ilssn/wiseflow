@@ -166,7 +166,7 @@ chmod +x run.sh
 
 ### 5. **关注点和定时扫描信源添加**
     
-启动程序后，打开pocketbase Admin dashboard UI (http://127.0.0.1:8090/_/)
+启动程序后，打开pocketbase Admin dashboard UI (http://127.0.0.1:8095/_/)
     
 #### 5.1 打开 focus_point 表单
 

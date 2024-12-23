@@ -157,7 +157,7 @@ chmod +x run.sh
 
 ### 5. **関心事と定期的なスキャン情報源の追加**
     
-プログラムを起動した後、pocketbase Admin dashboard UI (http://127.0.0.1:8090/_/) を開きます
+プログラムを起動した後、pocketbase Admin dashboard UI (http://127.0.0.1:8095/_/) を開きます
     
 #### 5.1 focus_point フォームを開く
 

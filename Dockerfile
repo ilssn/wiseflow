@@ -16,7 +16,7 @@ ADD https://github.com/pocketbase/pocketbase/releases/download/v0.23.4/pocketbas
 RUN unzip /tmp/pb.zip -d /pb/
 RUN apt-get clean && rm -rf /var/lib/apt/lists/*
 
-EXPOSE 8090
+EXPOSE 8095
 # EXPOSE 8077
 
 CMD tail -f /dev/null
